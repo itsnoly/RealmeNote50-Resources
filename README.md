@@ -1,4 +1,4 @@
-## 📱 realme Note 50 Resources
+## realme Note 50 Resources
 
 Official firmware, OTA packages, boot & recovery images extracted from update packages for RMX3834 / RMX3834EEA.
 
