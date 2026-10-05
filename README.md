@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/assets/home.png" />
+   <img src="https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/assets/home.svg" />
 
    <h2>Realme Note 50 (RMX3834/EEA) - Resource Center</h2>
 
