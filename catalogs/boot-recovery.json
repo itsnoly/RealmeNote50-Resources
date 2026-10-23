@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-23T11:46:48Z",
+  "generatedAt": "2026-10-23T12:56:25Z",
   "builds": [
     {
       "id": "Android-13/Export/A.11",
@@ -15,7 +15,15 @@
           "path": "boot-recovery/Android-13/Export/A.11/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.11/boot.zip",
           "size": 19500670,
-          "sha256": "d0c9ef4fe2f913933b8db754df85a32f6a00484716c698c6c88ab6a08ddf61c2"
+          "sha256": "d0c9ef4fe2f913933b8db754df85a32f6a00484716c698c6c88ab6a08ddf61c2",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "35282d6ff0c5c9573519bfc9c207798d6e9b644107440485654432426e27d6b6"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -23,7 +31,15 @@
           "path": "boot-recovery/Android-13/Export/A.11/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.11/vendor_boot.zip",
           "size": 24324050,
-          "sha256": "cfa31ccfe8592a732da063863989cc5aba49ac03b911d886c718c3d8577ba585"
+          "sha256": "cfa31ccfe8592a732da063863989cc5aba49ac03b911d886c718c3d8577ba585",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "ea3e0e8548c1116d1c93c526e593e96c5c6adfbc2cbfe645bc3bf04a67de17de"
+            }
+          ]
         }
       ]
     },
@@ -40,7 +56,15 @@
           "path": "boot-recovery/Android-13/Export/A.13/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.13/boot.zip",
           "size": 19497228,
-          "sha256": "efb9769bacf0ee97a40fec85672e6bb7c172af56d2ddab0c0706ea7b393b98a1"
+          "sha256": "efb9769bacf0ee97a40fec85672e6bb7c172af56d2ddab0c0706ea7b393b98a1",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "aed4280df4611702925a663e35a9185bee7ea4488ad7cff039c2fc9a409700fd"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -48,7 +72,15 @@
           "path": "boot-recovery/Android-13/Export/A.13/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.13/vendor_boot.zip",
           "size": 24323988,
-          "sha256": "f6c3daf41ed638b251348e2f5fb914ab2944e0e9c5c1c054b3468bc142a05304"
+          "sha256": "f6c3daf41ed638b251348e2f5fb914ab2944e0e9c5c1c054b3468bc142a05304",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d362f8a7c7badf04787f638f1e71994c9ad20c44ff804d11ccf3368fec8879a6"
+            }
+          ]
         }
       ]
     },
@@ -65,7 +97,15 @@
           "path": "boot-recovery/Android-13/Export/A.15/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.15/boot.zip",
           "size": 19500034,
-          "sha256": "1a2a316567d5fa95d9c8f7b2120047ac300f4aab61ab1e1d8ec22f154edaa906"
+          "sha256": "1a2a316567d5fa95d9c8f7b2120047ac300f4aab61ab1e1d8ec22f154edaa906",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "47f9a40c56b8b146a3da7dccff91b054c90d91f939323c1f349b1b75f37fef13"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -73,7 +113,15 @@
           "path": "boot-recovery/Android-13/Export/A.15/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.15/vendor_boot.zip",
           "size": 24323337,
-          "sha256": "bc3d70acacc61899c1237147eeb95589da5233256c3ee281047c92b7aafb35d4"
+          "sha256": "bc3d70acacc61899c1237147eeb95589da5233256c3ee281047c92b7aafb35d4",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1967160536400fd6e957c86afe8f0dbb512cedfb518ba3618dd41e3c73c4278b"
+            }
+          ]
         }
       ]
     },
@@ -90,7 +138,15 @@
           "path": "boot-recovery/Android-13/Export/A.17/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.17/boot.zip",
           "size": 19502027,
-          "sha256": "7acc0a0d6242aa3f72c683887a74c472c3cb82385708ea588846cf905ffd3f00"
+          "sha256": "7acc0a0d6242aa3f72c683887a74c472c3cb82385708ea588846cf905ffd3f00",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "56798f071d06582850a71b5628a2443b8de67f08070f17b6496192312a2d2ce8"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -98,7 +154,15 @@
           "path": "boot-recovery/Android-13/Export/A.17/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.17/vendor_boot.zip",
           "size": 24323409,
-          "sha256": "7ca2462d5065461aab648dd4075fd8fb9459571abf818925e7206dbdccfaa4ed"
+          "sha256": "7ca2462d5065461aab648dd4075fd8fb9459571abf818925e7206dbdccfaa4ed",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "c5c1d14d5c445797ab171c363ade6cf99937e85305f32018225c1d20a687016a"
+            }
+          ]
         }
       ]
     },
@@ -115,7 +179,15 @@
           "path": "boot-recovery/Android-13/Export/A.23/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.23/boot.zip",
           "size": 19501498,
-          "sha256": "be1f3f41dbe8ef93251c2a2c4ea7ca1222f6e2b2c1e95ac7f8d01175b1927228"
+          "sha256": "be1f3f41dbe8ef93251c2a2c4ea7ca1222f6e2b2c1e95ac7f8d01175b1927228",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "4ae27af2c888b8eeb9de27bcc370496e749ad4061104059ef58ef357e6473eae"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -123,7 +195,15 @@
           "path": "boot-recovery/Android-13/Export/A.23/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.23/vendor_boot.zip",
           "size": 24423898,
-          "sha256": "5e5995c9dd2bdb9fc090852c9649f3cd8dc2357519ae04bd3295f07f49fda365"
+          "sha256": "5e5995c9dd2bdb9fc090852c9649f3cd8dc2357519ae04bd3295f07f49fda365",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1f20619ffb4a0a72795d0edd9ab344bfc4fa27335316065aa532e219aae59120"
+            }
+          ]
         }
       ]
     },
@@ -140,7 +220,15 @@
           "path": "boot-recovery/Android-13/Export/A.27/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.27/boot.zip",
           "size": 19499978,
-          "sha256": "d18eb9ca88b4136636be8fc82ea45f6f3edf70f403461ffbe5dddb92a0faae11"
+          "sha256": "d18eb9ca88b4136636be8fc82ea45f6f3edf70f403461ffbe5dddb92a0faae11",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "8151e049163b90b049dca2110a3520407b47bdd1f13f429e82f9505a4b895c3e"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -148,7 +236,15 @@
           "path": "boot-recovery/Android-13/Export/A.27/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.27/vendor_boot.zip",
           "size": 24423887,
-          "sha256": "4fbdf9a71967882d4eb098112861a165f1415cc4f29f3e6e19def42ffebc97c9"
+          "sha256": "4fbdf9a71967882d4eb098112861a165f1415cc4f29f3e6e19def42ffebc97c9",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "6a373114eb1787a6d39735429031df1b7b45e2cc3e86024659b2cfb0b5376494"
+            }
+          ]
         }
       ]
     },
@@ -165,7 +261,15 @@
           "path": "boot-recovery/Android-13/Export/A.33/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.33/boot.zip",
           "size": 19501316,
-          "sha256": "2a5e0b7f3098078034df506f803a857d3366b944d96a4dc0c501439df693f602"
+          "sha256": "2a5e0b7f3098078034df506f803a857d3366b944d96a4dc0c501439df693f602",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "75c4ecf57fde3f9b13c9ed77daf4f27cf609ff2d4fecda94c6fe2ce4148b80f5"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -173,7 +277,15 @@
           "path": "boot-recovery/Android-13/Export/A.33/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.33/vendor_boot.zip",
           "size": 24423565,
-          "sha256": "75c8d7b6593af80df33fb139f7bd9bb7c3fa1cb31612df83bf4592023915ebc5"
+          "sha256": "75c8d7b6593af80df33fb139f7bd9bb7c3fa1cb31612df83bf4592023915ebc5",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "66c7b42af96941c9ade9ca42783c2b7c04622bf0b42d7e063559241e4e4d6c96"
+            }
+          ]
         }
       ]
     },
@@ -190,7 +302,15 @@
           "path": "boot-recovery/Android-13/Export/A.39/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.39/boot.zip",
           "size": 19506706,
-          "sha256": "b106b620c3667b3bf0ec10a035408c325379552fdddb5286564fa69c67ce2aa9"
+          "sha256": "b106b620c3667b3bf0ec10a035408c325379552fdddb5286564fa69c67ce2aa9",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "58ba4d5ad08660fb6e5e66f55be27dc3127f69173c7652598ac1f259567b11d5"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -198,7 +318,15 @@
           "path": "boot-recovery/Android-13/Export/A.39/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.39/vendor_boot.zip",
           "size": 24423262,
-          "sha256": "2b35dd2e14c97256dd1a8aa7439d19d6909268d262975f33b7f61843ed2cca2b"
+          "sha256": "2b35dd2e14c97256dd1a8aa7439d19d6909268d262975f33b7f61843ed2cca2b",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1b7642a74fa587e5828adcb61117a30d3000d2d955a0481b84c566822b48f3b5"
+            }
+          ]
         }
       ]
     },
@@ -215,7 +343,15 @@
           "path": "boot-recovery/Android-13/Export/A.45/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.45/boot.zip",
           "size": 19506642,
-          "sha256": "6eece381c1e3c8a967d7e1ba8471a9ff8ad10e62060f4648996f243af7a058cd"
+          "sha256": "6eece381c1e3c8a967d7e1ba8471a9ff8ad10e62060f4648996f243af7a058cd",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "be079a343f3ca58a073ac5b6b520b5a5ee10048a372484f578357ca7edc3d262"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -223,7 +359,15 @@
           "path": "boot-recovery/Android-13/Export/A.45/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.45/vendor_boot.zip",
           "size": 24423728,
-          "sha256": "867c8f5b9d1d69b070037eea2331d2ae85eedcb294b8645961ca140b62375a9f"
+          "sha256": "867c8f5b9d1d69b070037eea2331d2ae85eedcb294b8645961ca140b62375a9f",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "a53be9b63182989adfc578966637d2cd826e6074cb5673c099e7e63b6367140e"
+            }
+          ]
         }
       ]
     },
@@ -240,7 +384,15 @@
           "path": "boot-recovery/Android-13/Export/A.49/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.49/boot.zip",
           "size": 19506004,
-          "sha256": "ddf83f21a47ec226a5c73aaded9179545a3cb0161671e4ff54ee074022df104e"
+          "sha256": "ddf83f21a47ec226a5c73aaded9179545a3cb0161671e4ff54ee074022df104e",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "72be34c1047c4606b1a30e9b3efdd92097675f1c2ced7b9c244b688e43219ead"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -248,7 +400,15 @@
           "path": "boot-recovery/Android-13/Export/A.49/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.49/vendor_boot.zip",
           "size": 24424034,
-          "sha256": "b707e049123aa518e853122a8d0f249fa6136b6a38152a97e54d853e3be044f3"
+          "sha256": "b707e049123aa518e853122a8d0f249fa6136b6a38152a97e54d853e3be044f3",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "05a326a9bcbcf086bf92aa0fbb2e318df95fe1c7de338dfb184ff380c98ff969"
+            }
+          ]
         }
       ]
     },
@@ -265,7 +425,15 @@
           "path": "boot-recovery/Android-13/Export/A.51/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.51/boot.zip",
           "size": 19507078,
-          "sha256": "bae693665f2931ce3cc256f1f015a10f39150af02b5af11f9117e2e87c5644c9"
+          "sha256": "bae693665f2931ce3cc256f1f015a10f39150af02b5af11f9117e2e87c5644c9",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c43fba6577c63629f3492506a4c0a6bd95aeeed3763bef4f25d070e7024559a9"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -273,7 +441,15 @@
           "path": "boot-recovery/Android-13/Export/A.51/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.51/vendor_boot.zip",
           "size": 24424056,
-          "sha256": "c65a790211afe007c891c0ff09f6211fc566dc0f9098b408a7872a48bc026bee"
+          "sha256": "c65a790211afe007c891c0ff09f6211fc566dc0f9098b408a7872a48bc026bee",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "6e4d2c8670319e357cd007910eb66b2eba013dc94455e76e18b9fd48be6ebaa1"
+            }
+          ]
         }
       ]
     },
@@ -290,7 +466,15 @@
           "path": "boot-recovery/Android-13/Export/A.53/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.53/boot.zip",
           "size": 19505882,
-          "sha256": "da9dc0f620febdbc0ab82b8b1610434a49c22191a5892db960a1b69fe5e85622"
+          "sha256": "da9dc0f620febdbc0ab82b8b1610434a49c22191a5892db960a1b69fe5e85622",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "cef46ce0c593a9885b5ddef9ef121beaff09a72f20dcc302bc0d83f3e5cc5644"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -298,7 +482,15 @@
           "path": "boot-recovery/Android-13/Export/A.53/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.53/vendor_boot.zip",
           "size": 24423346,
-          "sha256": "1ab7130fbdd97af54c31b5500dbb0dd9c0d7d9af6c03bab218c0438c0b9e92c3"
+          "sha256": "1ab7130fbdd97af54c31b5500dbb0dd9c0d7d9af6c03bab218c0438c0b9e92c3",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "23dbd673b4f69226d6730969d97a39cb17a17f36daa0696298d77e2df5a795c6"
+            }
+          ]
         }
       ]
     },
@@ -315,7 +507,15 @@
           "path": "boot-recovery/Android-13/Export/A.55/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.55/boot.zip",
           "size": 19505245,
-          "sha256": "18d45dddfa1bf9c045ddcd27d02f38ac4dc5c54d90ffb998feee61fb3f785511"
+          "sha256": "18d45dddfa1bf9c045ddcd27d02f38ac4dc5c54d90ffb998feee61fb3f785511",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "63687e117857a179831ec600181483e5540bd2d837f5159a3e2155af9afd43ed"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -323,7 +523,15 @@
           "path": "boot-recovery/Android-13/Export/A.55/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.55/vendor_boot.zip",
           "size": 24423591,
-          "sha256": "8de8ef4b694eca6c416b65d348b01f208703ce4f5d2cc25f2518084dc709e77d"
+          "sha256": "8de8ef4b694eca6c416b65d348b01f208703ce4f5d2cc25f2518084dc709e77d",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d814bccc3b1f5aba3cc93240e21ae9376f7fac5ebfb21e10c3b5ad47e3f7b9c9"
+            }
+          ]
         }
       ]
     },
@@ -340,7 +548,15 @@
           "path": "boot-recovery/Android-13/Export/A.61/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.61/boot.zip",
           "size": 19507463,
-          "sha256": "66b726bd971e5a9be2a78b0cc559f12a2088f88999dec409ceb03e5bcde564d0"
+          "sha256": "66b726bd971e5a9be2a78b0cc559f12a2088f88999dec409ceb03e5bcde564d0",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "051ee2f8df4522c732de7e951fef4ea68583ea094581309b19b03df4ff1d9163"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -348,7 +564,15 @@
           "path": "boot-recovery/Android-13/Export/A.61/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.61/vendor_boot.zip",
           "size": 24423839,
-          "sha256": "63456ba0c6839e8f8b72bd4a1a1c441aca9d5d98ddd2dbfe9a3469b6f8cb5f88"
+          "sha256": "63456ba0c6839e8f8b72bd4a1a1c441aca9d5d98ddd2dbfe9a3469b6f8cb5f88",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "12f4ff0bd93187aec6872d83d18be2799d54396a59bc929900381fcb88f37905"
+            }
+          ]
         }
       ]
     },
@@ -365,7 +589,15 @@
           "path": "boot-recovery/Android-13/Export/A.65/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.65/boot.zip",
           "size": 19504738,
-          "sha256": "faa79388c5cbd0f8e695c7b7a7eb086cdca860c77da14a3c14afce5a3809fdfd"
+          "sha256": "faa79388c5cbd0f8e695c7b7a7eb086cdca860c77da14a3c14afce5a3809fdfd",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "f5ad56eb27165508c6b1c2ec97ea393cab820af2a103ba723fc28b652db9a9be"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -373,7 +605,15 @@
           "path": "boot-recovery/Android-13/Export/A.65/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.65/vendor_boot.zip",
           "size": 24423273,
-          "sha256": "c8045a086c51bbde5b73f5456159fa873cc47ff8b21a3ca627bf4dda27628e7e"
+          "sha256": "c8045a086c51bbde5b73f5456159fa873cc47ff8b21a3ca627bf4dda27628e7e",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "5a9bde6819bb8e9a5a7ebb12b8e607d47de4ebffd42dec80ec92d4da1414cd56"
+            }
+          ]
         }
       ]
     },
@@ -390,7 +630,15 @@
           "path": "boot-recovery/Android-13/Export/A.67/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.67/boot.zip",
           "size": 19506650,
-          "sha256": "b2babd9edc9e1c64d1fc3f62299f2ded8c5047e4419d7d5f78b637bdefa235d2"
+          "sha256": "b2babd9edc9e1c64d1fc3f62299f2ded8c5047e4419d7d5f78b637bdefa235d2",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "ab880989ea338c235a8b06280dc7f32a74aadda1fc2ea190612975b659a08e71"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -398,7 +646,15 @@
           "path": "boot-recovery/Android-13/Export/A.67/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.67/vendor_boot.zip",
           "size": 24423276,
-          "sha256": "b8f807c132cfd71f284e8267cc8bf19f9b0fda94f2e32396190a74972bc1c038"
+          "sha256": "b8f807c132cfd71f284e8267cc8bf19f9b0fda94f2e32396190a74972bc1c038",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "5a99b6a2dbd27f554beb5f45f7f0d1152c4f2f3b1a2e6b56af00fbbed691f46c"
+            }
+          ]
         }
       ]
     },
@@ -415,7 +671,15 @@
           "path": "boot-recovery/Android-13/Export/A.68/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.68/boot.zip",
           "size": 20116584,
-          "sha256": "1a48a46410ba34c916c88e9f80f01cc620c64ef526bd07915e6aeb76389960b9"
+          "sha256": "1a48a46410ba34c916c88e9f80f01cc620c64ef526bd07915e6aeb76389960b9",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "993e59942338f1a1205d850a25394c704b246e3766898e3f37d81ebb2e2087ed"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -423,7 +687,15 @@
           "path": "boot-recovery/Android-13/Export/A.68/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.68/vendor_boot.zip",
           "size": 24421591,
-          "sha256": "0034c23a42e4b0bd61a5743d1544f41963bf9823beefe0c2159f22901ce16eac"
+          "sha256": "0034c23a42e4b0bd61a5743d1544f41963bf9823beefe0c2159f22901ce16eac",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "aca6dff146b403799387d9e42cfc4fd9060287daa1f585e8cb561190407a8aab"
+            }
+          ]
         }
       ]
     },
@@ -440,7 +712,15 @@
           "path": "boot-recovery/Android-13/Export/A.72/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.72/boot.zip",
           "size": 20116900,
-          "sha256": "301f3fa1c91f3442ae4143ad5b4106cf0875299d94bb466a9e1bad7477ec23a2"
+          "sha256": "301f3fa1c91f3442ae4143ad5b4106cf0875299d94bb466a9e1bad7477ec23a2",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "21dd1291ba2ced8823ceb73104fdb37da6dfe9bd033438cc4eedf3b68d387a4a"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -448,7 +728,15 @@
           "path": "boot-recovery/Android-13/Export/A.72/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.72/vendor_boot.zip",
           "size": 24423763,
-          "sha256": "4d6d0515c0af8e7c649e275f8c772f19b4ed1f3e45ea840b61038d966b17280d"
+          "sha256": "4d6d0515c0af8e7c649e275f8c772f19b4ed1f3e45ea840b61038d966b17280d",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1c9f79f86039d4146c4e09b1c7c9a0c5f18e005248acef5e52e61ecfd26493b3"
+            }
+          ]
         }
       ]
     },
@@ -465,7 +753,15 @@
           "path": "boot-recovery/Android-13/Export/A.77/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.77/boot.zip",
           "size": 19509480,
-          "sha256": "c1406e645822f4b5f44c2fb2ee19680109136edbc62bae5663176771a1dd773b"
+          "sha256": "c1406e645822f4b5f44c2fb2ee19680109136edbc62bae5663176771a1dd773b",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "f7a45d433d5b90f6d04ab04d1a6112f9cda4cddda244a0cea1abe2bf62b848bb"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -473,7 +769,15 @@
           "path": "boot-recovery/Android-13/Export/A.77/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.77/vendor_boot.zip",
           "size": 24432333,
-          "sha256": "bfcc9d58c42614cedad13b0c9669fb52f0a661b8c402525122fa7d2167c9fa21"
+          "sha256": "bfcc9d58c42614cedad13b0c9669fb52f0a661b8c402525122fa7d2167c9fa21",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "7c867c6618bf53067466af904dc6620bbeb685b679241427633fb30cec56d63f"
+            }
+          ]
         }
       ]
     },
@@ -490,7 +794,15 @@
           "path": "boot-recovery/Android-13/Export/A.78/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.78/boot.zip",
           "size": 16372163,
-          "sha256": "43117f9f704353f8b9d5f148a46deba97f70da38a3821a44d4c18a2739f379cb"
+          "sha256": "43117f9f704353f8b9d5f148a46deba97f70da38a3821a44d4c18a2739f379cb",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 31457280,
+              "sha256": "4fbe809d2358142f265f876ac3490a5f9679d9902920ab5633d1ca85aee31143"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -498,7 +810,15 @@
           "path": "boot-recovery/Android-13/Export/A.78/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.78/vendor_boot.zip",
           "size": 21692223,
-          "sha256": "78eefbc2236d2516c1ad54d7cdace50b02e315d1c55b4b037f935673d544bed2"
+          "sha256": "78eefbc2236d2516c1ad54d7cdace50b02e315d1c55b4b037f935673d544bed2",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 25165824,
+              "sha256": "7502eb95ae3a7fe386e690d91c5e918852703fba61a0f7b4854c6df7713aad0a"
+            }
+          ]
         }
       ]
     },
@@ -515,7 +835,15 @@
           "path": "boot-recovery/Android-13/Export/A.83/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.83/boot.zip",
           "size": 19509791,
-          "sha256": "e444d5d511d498567088732506524f5a1d6820cf36ef57d5517839497cf58ced"
+          "sha256": "e444d5d511d498567088732506524f5a1d6820cf36ef57d5517839497cf58ced",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "aaa6c1803133aadaa78b857ee764f5683d88998fd1b373496ffdc56bb1be87dd"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -523,7 +851,15 @@
           "path": "boot-recovery/Android-13/Export/A.83/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.83/vendor_boot.zip",
           "size": 24432415,
-          "sha256": "4b116bf650cafe73c4ea3483bb92330e668bc4c6e4bccb0fa0f1c6b3eaf9866e"
+          "sha256": "4b116bf650cafe73c4ea3483bb92330e668bc4c6e4bccb0fa0f1c6b3eaf9866e",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "6cb47e7c5d03f214371d5e7d8d1d6cbd14ad0507213b4aeed59f283522b35c0e"
+            }
+          ]
         }
       ]
     },
@@ -540,7 +876,15 @@
           "path": "boot-recovery/Android-13/Export/A.85/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.85/boot.zip",
           "size": 19509628,
-          "sha256": "fe468780fa0621ab8ac01df7d827d84910ea124c29baaf1b4df38c53e2b10c93"
+          "sha256": "fe468780fa0621ab8ac01df7d827d84910ea124c29baaf1b4df38c53e2b10c93",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "84a29417f3a31712bb3f23ce9490bdb9849d96b8b9ab6d6cc09d54bbdb59585c"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -548,7 +892,15 @@
           "path": "boot-recovery/Android-13/Export/A.85/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.85/vendor_boot.zip",
           "size": 24430404,
-          "sha256": "b3a182602b3dd845352d6d093c7b9e4fb6593f9478f692274932ebc9fdf690b1"
+          "sha256": "b3a182602b3dd845352d6d093c7b9e4fb6593f9478f692274932ebc9fdf690b1",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "992f09db7b1c670cfce1fa76cd5866779f8812070ca5e30314710e717be4e051"
+            }
+          ]
         }
       ]
     },
@@ -565,7 +917,15 @@
           "path": "boot-recovery/Android-13/Export/A.89/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.89/boot.zip",
           "size": 19508669,
-          "sha256": "340d17cb864c403d739358bddc1bc2675b812294950509a64118912b58390101"
+          "sha256": "340d17cb864c403d739358bddc1bc2675b812294950509a64118912b58390101",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "99a7d72df8dba22aaffc65f478bfe0b6e53ea37135388529112ce1dfff988b0a"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -573,7 +933,15 @@
           "path": "boot-recovery/Android-13/Export/A.89/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/Export/A.89/vendor_boot.zip",
           "size": 24434097,
-          "sha256": "670855f82544fb000d247428d9c3f1a75e19772aa46a5696bec2373bc1582a52"
+          "sha256": "670855f82544fb000d247428d9c3f1a75e19772aa46a5696bec2373bc1582a52",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "6bd07f3a9765a0a4c6c7649db740e43a6a6499aac5e201a15caa479f2563f2cd"
+            }
+          ]
         }
       ]
     },
@@ -590,7 +958,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.12/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.12/boot.zip",
           "size": 19500294,
-          "sha256": "b1905f4169403aa1b5042ceab87ce6e1ce765490587ef23b6f7d48017b9ced49"
+          "sha256": "b1905f4169403aa1b5042ceab87ce6e1ce765490587ef23b6f7d48017b9ced49",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "573ce14e8cd2ce3caef5b776a9ea8e0517568c23e1ce2e3729fdf91d8da4ee4c"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -598,7 +974,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.12/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.12/vendor_boot.zip",
           "size": 24322643,
-          "sha256": "e2f4aa084cc5c8e829d08a6fd7a3674454ea8020c761681751dd3e0ed7c562b8"
+          "sha256": "e2f4aa084cc5c8e829d08a6fd7a3674454ea8020c761681751dd3e0ed7c562b8",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d29a5bf56daaa028b0b82549fac4cac94bc8311d3cde7247e77a048340b3da26"
+            }
+          ]
         }
       ]
     },
@@ -615,7 +999,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.18/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.18/boot.zip",
           "size": 19502435,
-          "sha256": "647783e9b472667d4a3560c5c523a98191fae213af7e1e6d98d1ccd387f541df"
+          "sha256": "647783e9b472667d4a3560c5c523a98191fae213af7e1e6d98d1ccd387f541df",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "41367ca4fe7e5034301ce4c210517781247f9ef2f019e53a342e6aac8a54bfd7"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -623,7 +1015,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.18/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.18/vendor_boot.zip",
           "size": 24423111,
-          "sha256": "d804d392786ebb24d207050fc2c3e7540b4d2aa8fabc329176f9ea7d81fdcda4"
+          "sha256": "d804d392786ebb24d207050fc2c3e7540b4d2aa8fabc329176f9ea7d81fdcda4",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d2ab157ea28bdc32bba067783852b02fac060687b701ff3b976069be346133bc"
+            }
+          ]
         }
       ]
     },
@@ -640,7 +1040,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.20/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.20/boot.zip",
           "size": 19504745,
-          "sha256": "eadf15da400325f3563987f2eb2a570d276f3d60708e4de7810fc3bdf987f5bd"
+          "sha256": "eadf15da400325f3563987f2eb2a570d276f3d60708e4de7810fc3bdf987f5bd",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "34301d935659b5c8e22d95ce4d7d79531159392e8fb6014bde0f48a60b84bcaa"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -648,7 +1056,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.20/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.20/vendor_boot.zip",
           "size": 24423488,
-          "sha256": "7625e66e0b1a1a58f38e78fa1f52bab69b48313bd7bc06564f347bc6a13cd3d9"
+          "sha256": "7625e66e0b1a1a58f38e78fa1f52bab69b48313bd7bc06564f347bc6a13cd3d9",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d0d9757d0ae1afbabca9bc9930f70937341d559befbbc118df05a757913bddb1"
+            }
+          ]
         }
       ]
     },
@@ -665,7 +1081,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.50/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.50/boot.zip",
           "size": 19506856,
-          "sha256": "5188a6bb8b267800523f1113aa2eac62c35188c1eb43548c52db164b005c429c"
+          "sha256": "5188a6bb8b267800523f1113aa2eac62c35188c1eb43548c52db164b005c429c",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "99edcf4c74a9478d3f9e434b214cd41a5987c865378deba61edd48e263b8a5e3"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -673,7 +1097,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.50/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.50/vendor_boot.zip",
           "size": 24423993,
-          "sha256": "f2e7149ab4afab09db979289907166e7897dfe1acc4ff6033c3e1632baecd692"
+          "sha256": "f2e7149ab4afab09db979289907166e7897dfe1acc4ff6033c3e1632baecd692",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "0efb2e322ba94727e7532a774de725723f3fc7cf45e05f22f908f692108cebe1"
+            }
+          ]
         }
       ]
     },
@@ -690,7 +1122,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.52/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.52/boot.zip",
           "size": 19507214,
-          "sha256": "047fb798bb7e61bdf7a7800930e249dd2ce9684d156c7fa12ad17ed2235ad8a7"
+          "sha256": "047fb798bb7e61bdf7a7800930e249dd2ce9684d156c7fa12ad17ed2235ad8a7",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "83b9cabdc72be792bc609ee5d9b732efdc2e2dde6d721f46b3c8c2f0d6cb94b4"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -698,7 +1138,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.52/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.52/vendor_boot.zip",
           "size": 24423245,
-          "sha256": "d9a7fb1bc26dd7fa685e041381842b7f5035b0da815008f692a39c46c282ab1f"
+          "sha256": "d9a7fb1bc26dd7fa685e041381842b7f5035b0da815008f692a39c46c282ab1f",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "ef19884717dba7f8bf18bd0465286b43a777d4da65931c112b705fc123487bb5"
+            }
+          ]
         }
       ]
     },
@@ -715,7 +1163,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.54/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.54/boot.zip",
           "size": 19507131,
-          "sha256": "15b73c5ad5ec46414bc502007afd85d6e4bcaf5ee260a53e478c9155f3201830"
+          "sha256": "15b73c5ad5ec46414bc502007afd85d6e4bcaf5ee260a53e478c9155f3201830",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "573891aa99bb691b1eb3b455eb236e56503b91300a5144e71c0398d415eff98a"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -723,7 +1179,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.54/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.54/vendor_boot.zip",
           "size": 24423315,
-          "sha256": "c7442c3d7c4f7372f2124f0ae787dcaa844ade6b691e05087e80a3d0b1a747c2"
+          "sha256": "c7442c3d7c4f7372f2124f0ae787dcaa844ade6b691e05087e80a3d0b1a747c2",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "2b2e809ef4fd20c8ff8ec82ae4150e5bb5a4b5d74c3dc76961062dcbf2fa64e2"
+            }
+          ]
         }
       ]
     },
@@ -740,7 +1204,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.66/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.66/boot.zip",
           "size": 19508068,
-          "sha256": "9b0c2f7893e8f769771dcb8ea5dbece9cbb3064ec22546627b7770620cfb2fc8"
+          "sha256": "9b0c2f7893e8f769771dcb8ea5dbece9cbb3064ec22546627b7770620cfb2fc8",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "6bef1af700cdfc050ede3056978e0ca4dfe3dbda09362b7081293637f97c03e7"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -748,7 +1220,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.66/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.66/vendor_boot.zip",
           "size": 24423192,
-          "sha256": "077e1851e8284453d79af002409110724e17a1da4a24525f95794cb217240e4d"
+          "sha256": "077e1851e8284453d79af002409110724e17a1da4a24525f95794cb217240e4d",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "c758debf9440b029de984f4350ed02e9c18866a792a14b4c569a4150e61fa8d4"
+            }
+          ]
         }
       ]
     },
@@ -765,7 +1245,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.73/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.73/boot.zip",
           "size": 20117722,
-          "sha256": "df9cac3151af917a1e72cd090686ccb7a55571c0f3654317ea8aa3dca2cee0b8"
+          "sha256": "df9cac3151af917a1e72cd090686ccb7a55571c0f3654317ea8aa3dca2cee0b8",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "e81f5b16b76e7989ed6eb6c304f8d025cbaf046daeb79990f15bb67184165787"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -773,7 +1261,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.73/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.73/vendor_boot.zip",
           "size": 24422699,
-          "sha256": "f36b0e886c06ecb82c716493f7dc6ee1f48727aba9cb33aed408806525b94bde"
+          "sha256": "f36b0e886c06ecb82c716493f7dc6ee1f48727aba9cb33aed408806525b94bde",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "9caa1cec55ec6949bd29ff76e0cd7f98858292f4a97c68ddb30a2eb6b2101a83"
+            }
+          ]
         }
       ]
     },
@@ -790,7 +1286,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.84/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.84/boot.zip",
           "size": 19508858,
-          "sha256": "06f23985ab02f006157a6e47df284d74b27ceadb8c06d3fb6612343512264741"
+          "sha256": "06f23985ab02f006157a6e47df284d74b27ceadb8c06d3fb6612343512264741",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c3e6e9e1ca8220ae5e86731b9ee75bde67a3f99be1756a4773152b24b4e51af9"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -798,7 +1302,15 @@
           "path": "boot-recovery/Android-13/GDPR/A.84/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-13/GDPR/A.84/vendor_boot.zip",
           "size": 24430567,
-          "sha256": "af714728279755ea60ad1e81861b63736fda931b0153d9e30b323685c41ab243"
+          "sha256": "af714728279755ea60ad1e81861b63736fda931b0153d9e30b323685c41ab243",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "5551323446be9a6a1bf76d385e4ef22a7ef81e5d6248c02701c44d8738bb94db"
+            }
+          ]
         }
       ]
     },
@@ -815,7 +1327,15 @@
           "path": "boot-recovery/Android-14/Export/C.13/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.13/boot.zip",
           "size": 20117348,
-          "sha256": "5a00bf20246458cf181d7ec65c3fa87c2c35ad4a27e9d7321bbe9be4f7d8d856"
+          "sha256": "5a00bf20246458cf181d7ec65c3fa87c2c35ad4a27e9d7321bbe9be4f7d8d856",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "ba9662d0d964661050ebd1b10cdc3c3bd496854623ffb9ef23c973f3cd3894bc"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -823,7 +1343,15 @@
           "path": "boot-recovery/Android-14/Export/C.13/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.13/vendor_boot.zip",
           "size": 24422371,
-          "sha256": "443c9fb831cc4381d6bd9f22bdda809fcfa5b66368e8258deed410884077b72a"
+          "sha256": "443c9fb831cc4381d6bd9f22bdda809fcfa5b66368e8258deed410884077b72a",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "b595e31f2c5ca7a2b7136a60f436a70462770c0555c686099c16c3e5063ff76c"
+            }
+          ]
         }
       ]
     },
@@ -840,7 +1368,15 @@
           "path": "boot-recovery/Android-14/Export/C.62/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.62/boot.zip",
           "size": 20111417,
-          "sha256": "e3aab54653ac5fdaf9171da13030989aef33d3909e4cb8c9bef2462d426b0230"
+          "sha256": "e3aab54653ac5fdaf9171da13030989aef33d3909e4cb8c9bef2462d426b0230",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "06dfe5537f5f2f8f9519819bc48cc5f45c714d4d7a9929fdaf24048e3d1ff403"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -848,7 +1384,15 @@
           "path": "boot-recovery/Android-14/Export/C.62/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.62/vendor_boot.zip",
           "size": 24422156,
-          "sha256": "c101b21dafa26b39882c029c4bff7fad0c038e3f6d681a020d3df66e828b2f2c"
+          "sha256": "c101b21dafa26b39882c029c4bff7fad0c038e3f6d681a020d3df66e828b2f2c",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "c970b41201a37c82ebda259e3211803b791d2764ce5c8408c346a4da259792ef"
+            }
+          ]
         }
       ]
     },
@@ -865,7 +1409,15 @@
           "path": "boot-recovery/Android-14/Export/C.65/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.65/boot.zip",
           "size": 20114706,
-          "sha256": "2d746f0617b82dd9fc4ef40b7c16d80a912a365350a252098f4f1474e57b8802"
+          "sha256": "2d746f0617b82dd9fc4ef40b7c16d80a912a365350a252098f4f1474e57b8802",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "867b37fa1f5407bdef20a00858cdff4db0e144c8012d811ad2d9d9d2c9c1c763"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -873,7 +1425,15 @@
           "path": "boot-recovery/Android-14/Export/C.65/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.65/vendor_boot.zip",
           "size": 24422169,
-          "sha256": "309ee97d34cc60e595732a4e38144a12317541e8cbb2b398ba2955655960089a"
+          "sha256": "309ee97d34cc60e595732a4e38144a12317541e8cbb2b398ba2955655960089a",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d84f8c88c64ee4826aac2a9fe554c49cce45142f3fcf7279385b2839525b5d23"
+            }
+          ]
         }
       ]
     },
@@ -890,7 +1450,15 @@
           "path": "boot-recovery/Android-14/Export/C.67/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.67/boot.zip",
           "size": 20116256,
-          "sha256": "6e1aa6ecf6f9f6b9b5f0af17f4b378eee3037d5e8a6740e8ef9655939918eb0c"
+          "sha256": "6e1aa6ecf6f9f6b9b5f0af17f4b378eee3037d5e8a6740e8ef9655939918eb0c",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "ec9fd9534b04a00da19291c1f0292de0171f6bf9adc4d97553f5c81aca087a9d"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -898,7 +1466,15 @@
           "path": "boot-recovery/Android-14/Export/C.67/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.67/vendor_boot.zip",
           "size": 24421044,
-          "sha256": "e232897c052bc980d174b7afbd74f4d8627ddf4143e45eb7063aeca3fd240638"
+          "sha256": "e232897c052bc980d174b7afbd74f4d8627ddf4143e45eb7063aeca3fd240638",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "697caf563c4d1a93c0d940842830e6313d2c30858d9364effb41f4aee736d5d6"
+            }
+          ]
         }
       ]
     },
@@ -915,7 +1491,15 @@
           "path": "boot-recovery/Android-14/Export/C.72/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.72/boot.zip",
           "size": 20116900,
-          "sha256": "c79395f6238cb6c01d49ab34af74a99e8650fb3cbe93d45b38c323120cbab64b"
+          "sha256": "c79395f6238cb6c01d49ab34af74a99e8650fb3cbe93d45b38c323120cbab64b",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "21dd1291ba2ced8823ceb73104fdb37da6dfe9bd033438cc4eedf3b68d387a4a"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -923,7 +1507,15 @@
           "path": "boot-recovery/Android-14/Export/C.72/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.72/vendor_boot.zip",
           "size": 24423763,
-          "sha256": "0e646f28639b9e535ad735ebd5ebacc1e2ada1e736c2eec8b0be3b110fe31464"
+          "sha256": "0e646f28639b9e535ad735ebd5ebacc1e2ada1e736c2eec8b0be3b110fe31464",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1c9f79f86039d4146c4e09b1c7c9a0c5f18e005248acef5e52e61ecfd26493b3"
+            }
+          ]
         }
       ]
     },
@@ -940,7 +1532,15 @@
           "path": "boot-recovery/Android-14/Export/C.73/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.73/boot.zip",
           "size": 20114273,
-          "sha256": "97ca5f296ddd626e82b43cfd9868318ce7d305fc66279731b1e943d0b84b0b87"
+          "sha256": "97ca5f296ddd626e82b43cfd9868318ce7d305fc66279731b1e943d0b84b0b87",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "829c0ff90bae7b3e188128df67fa356e0ff366d791be54e798e403c9c641a00c"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -948,7 +1548,15 @@
           "path": "boot-recovery/Android-14/Export/C.73/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.73/vendor_boot.zip",
           "size": 24421826,
-          "sha256": "9b0306073dc2d084c2201d790d6fb9a285a21777bae875073cfa6bba1d3cd179"
+          "sha256": "9b0306073dc2d084c2201d790d6fb9a285a21777bae875073cfa6bba1d3cd179",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "3534507cd34d1a97e6ae20f02f1141a8e60378ec67da76af6afa21c08993ae52"
+            }
+          ]
         }
       ]
     },
@@ -965,7 +1573,15 @@
           "path": "boot-recovery/Android-14/Export/C.74/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.74/boot.zip",
           "size": 20117253,
-          "sha256": "6c61c7205f59f6b11cf230dd87329fa6ec3d4acfd43588563f39d4a0c17adb4f"
+          "sha256": "6c61c7205f59f6b11cf230dd87329fa6ec3d4acfd43588563f39d4a0c17adb4f",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "d0cbedf7d5ff614f62f2c4e2ea1df9befdabf979f1ad50615672743e8c51122c"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -973,7 +1589,15 @@
           "path": "boot-recovery/Android-14/Export/C.74/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.74/vendor_boot.zip",
           "size": 24421802,
-          "sha256": "d0f6208f6314c77227ca3fa7a8b66c63e5d13e8b82789dfa30eb9c2c20b67090"
+          "sha256": "d0f6208f6314c77227ca3fa7a8b66c63e5d13e8b82789dfa30eb9c2c20b67090",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "f87967c96f7d386bb7d772e9c67143220d17f7a75cee08629313e95599b6fa9d"
+            }
+          ]
         }
       ]
     },
@@ -990,7 +1614,15 @@
           "path": "boot-recovery/Android-14/Export/C.75/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.75/boot.zip",
           "size": 20115794,
-          "sha256": "474fd5f0fb99787d43ea8ab507f5017e11d54e734ca2774d30e9fd1c9ac4c098"
+          "sha256": "474fd5f0fb99787d43ea8ab507f5017e11d54e734ca2774d30e9fd1c9ac4c098",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "77c44678e378ef00744ef0b55c47efc8c7765669e09a601ad3a7aa2a3cd2baed"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -998,7 +1630,15 @@
           "path": "boot-recovery/Android-14/Export/C.75/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.75/vendor_boot.zip",
           "size": 24424114,
-          "sha256": "4a7a4f7599df5bdae18b00212ccef13146842c9ca70ed9a336a5b9c4ca156511"
+          "sha256": "4a7a4f7599df5bdae18b00212ccef13146842c9ca70ed9a336a5b9c4ca156511",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "7bd99b61a13a29b7378cb9db6950e732de45ae5ab1e5619141d1535c8fc40577"
+            }
+          ]
         }
       ]
     },
@@ -1015,7 +1655,15 @@
           "path": "boot-recovery/Android-14/Export/C.78/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.78/boot.zip",
           "size": 20111143,
-          "sha256": "ebe2a5556052b33a855fea22b0f340a824fb90ec755b2e90100c987153b724a5"
+          "sha256": "ebe2a5556052b33a855fea22b0f340a824fb90ec755b2e90100c987153b724a5",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c188d3cd9bd915144bb7bbc0c64d592c7300e72da6db388d8b3c2e8b9476e8a6"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1023,7 +1671,15 @@
           "path": "boot-recovery/Android-14/Export/C.78/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.78/vendor_boot.zip",
           "size": 24423771,
-          "sha256": "6cb17104ec06c4bf8f7f3fab2ab7ae22983c9696657cfec422eae14da994681b"
+          "sha256": "6cb17104ec06c4bf8f7f3fab2ab7ae22983c9696657cfec422eae14da994681b",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "6f696d1b7b0415f55a0bfef9b44b0e3c04b003127a4162aba839d1042255410a"
+            }
+          ]
         }
       ]
     },
@@ -1040,7 +1696,15 @@
           "path": "boot-recovery/Android-14/Export/C.80/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.80/boot.zip",
           "size": 20115297,
-          "sha256": "e6eb20d27c68b97d283d9b1eaf317ea73e12fd9c9e7df0020ffa71341bb4ae37"
+          "sha256": "e6eb20d27c68b97d283d9b1eaf317ea73e12fd9c9e7df0020ffa71341bb4ae37",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "00772bf80a2e9dcd1a9e670fd67d6467d3a03884de4da507ea49b0c084c342e8"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1048,7 +1712,15 @@
           "path": "boot-recovery/Android-14/Export/C.80/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.80/vendor_boot.zip",
           "size": 24424200,
-          "sha256": "2efc4fd6face831dcff265426deab5d5664dec686cf16a2f68470ac5af75ed68"
+          "sha256": "2efc4fd6face831dcff265426deab5d5664dec686cf16a2f68470ac5af75ed68",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "3616403b96ab8b96de54f6553fa47beb74b371dbb431b8621f659c68ebe79c8d"
+            }
+          ]
         }
       ]
     },
@@ -1065,7 +1737,15 @@
           "path": "boot-recovery/Android-14/Export/C.84/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.84/boot.zip",
           "size": 20115028,
-          "sha256": "b0561a136f6702e22465224d42ae8ad2594e6e1120941815994eceef04cdc118"
+          "sha256": "b0561a136f6702e22465224d42ae8ad2594e6e1120941815994eceef04cdc118",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c6258004396e8a15f74df3776ef1253adcd574aa9b6c9c3e67c39c5da758e76e"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1073,7 +1753,15 @@
           "path": "boot-recovery/Android-14/Export/C.84/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.84/vendor_boot.zip",
           "size": 24423961,
-          "sha256": "86c3e2eb955f0e8881f80b098e7d49f1e364142a9d0633edb4cfeadf51c22525"
+          "sha256": "86c3e2eb955f0e8881f80b098e7d49f1e364142a9d0633edb4cfeadf51c22525",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "621f16c01af21a4b0a5b8e892f277fcc41871fd40643786302e378f65b16780f"
+            }
+          ]
         }
       ]
     },
@@ -1090,7 +1778,15 @@
           "path": "boot-recovery/Android-14/Export/C.93/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.93/boot.zip",
           "size": 22747092,
-          "sha256": "906527fa7d8f4df79c777e0b2b3824a1465801950d45aae3b2697dcd4a593089"
+          "sha256": "906527fa7d8f4df79c777e0b2b3824a1465801950d45aae3b2697dcd4a593089",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "cce74d8006cd0988fd1de2e4544d4e8d0af4e898ca264a0d3dadd0d84e64df50"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1098,7 +1794,15 @@
           "path": "boot-recovery/Android-14/Export/C.93/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.93/vendor_boot.zip",
           "size": 32036547,
-          "sha256": "af38837f2fbf0b85675c31dff7a5987727ea9250b129b8a3403377da672dad7a"
+          "sha256": "af38837f2fbf0b85675c31dff7a5987727ea9250b129b8a3403377da672dad7a",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "29f8cf04d4db61aa9f23d2238582567209cedc19ca9975800b7d1229b3996793"
+            }
+          ]
         }
       ]
     },
@@ -1115,7 +1819,15 @@
           "path": "boot-recovery/Android-14/Export/C.96/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.96/boot.zip",
           "size": 22746878,
-          "sha256": "12dc92fefcd9d7505f8727f1f84c4b0e8fe918cd3c2cc6f804dc30d037a0adbc"
+          "sha256": "12dc92fefcd9d7505f8727f1f84c4b0e8fe918cd3c2cc6f804dc30d037a0adbc",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "67a290c286df4b8f2852bdaee3e98caa284cc09b36c68988ed109f320aac5182"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1123,7 +1835,15 @@
           "path": "boot-recovery/Android-14/Export/C.96/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/Export/C.96/vendor_boot.zip",
           "size": 32063499,
-          "sha256": "28604db5107b9135434c5497313a7f33fad7a34b70977e4029a8047b6211d6a2"
+          "sha256": "28604db5107b9135434c5497313a7f33fad7a34b70977e4029a8047b6211d6a2",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "dda9db71cd20ce3379571a741611806243f3bcba6270ac1f2345a90597880fb6"
+            }
+          ]
         }
       ]
     },
@@ -1140,7 +1860,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.67/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.67/boot.zip",
           "size": 20114681,
-          "sha256": "bae96e73e133abae8d83daf22c82d5bc9e52881a2d1a7de8dc5851ecf64045c3"
+          "sha256": "bae96e73e133abae8d83daf22c82d5bc9e52881a2d1a7de8dc5851ecf64045c3",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "ccd59adc47ae4f3102e35264de7d08aa0375bbfb3db4d6e54941857cbe65cd9d"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1148,7 +1876,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.67/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.67/vendor_boot.zip",
           "size": 24421289,
-          "sha256": "f3b87b771cb88d467b0a2dc098887313ea220d8ba813b6c9366809228e715189"
+          "sha256": "f3b87b771cb88d467b0a2dc098887313ea220d8ba813b6c9366809228e715189",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "84def2d85a8bbf23e2018181e909e6b847a8cc0717f63653daf5e9f8eaa741ea"
+            }
+          ]
         }
       ]
     },
@@ -1165,7 +1901,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.73/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.73/boot.zip",
           "size": 20117722,
-          "sha256": "51ea29be5fa748938a85090c8c83cfcb6676c03bff8957a654e7de82a830ef14"
+          "sha256": "51ea29be5fa748938a85090c8c83cfcb6676c03bff8957a654e7de82a830ef14",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "e81f5b16b76e7989ed6eb6c304f8d025cbaf046daeb79990f15bb67184165787"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1173,7 +1917,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.73/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.73/vendor_boot.zip",
           "size": 24422699,
-          "sha256": "8032e2e960ff619071e26f14369cd9e1cd4b35c16b78c67f9a2c19dd390b9649"
+          "sha256": "8032e2e960ff619071e26f14369cd9e1cd4b35c16b78c67f9a2c19dd390b9649",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "9caa1cec55ec6949bd29ff76e0cd7f98858292f4a97c68ddb30a2eb6b2101a83"
+            }
+          ]
         }
       ]
     },
@@ -1190,7 +1942,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.74/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.74/boot.zip",
           "size": 20118641,
-          "sha256": "0ba14719a1ff9b99fe3875c80ef494dc3c6923e9cf7f2021524487e34f449b2c"
+          "sha256": "0ba14719a1ff9b99fe3875c80ef494dc3c6923e9cf7f2021524487e34f449b2c",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "6fb0130bb0a13aadab1fa764a7f968b828948237a4739540a99d6452b2abe941"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1198,7 +1958,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.74/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.74/vendor_boot.zip",
           "size": 24421321,
-          "sha256": "1532b41fdee7b1a37e7fad618b7730aeb341e657e84f0883e9967433a749a716"
+          "sha256": "1532b41fdee7b1a37e7fad618b7730aeb341e657e84f0883e9967433a749a716",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "0e8d101c9b3a648c904a2c3527e5c177cb3d965716fccc82f5cdca727988d9bb"
+            }
+          ]
         }
       ]
     },
@@ -1215,7 +1983,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.78/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.78/boot.zip",
           "size": 20114863,
-          "sha256": "ed2a153ff9ec53be36500428280b19cb7179c8adffd003094ead212eb39e8a72"
+          "sha256": "ed2a153ff9ec53be36500428280b19cb7179c8adffd003094ead212eb39e8a72",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "9b73ad31e751ed2f7cc545ec20f0eb932a2a20f8b05c72fc904b23e8dc58845b"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1223,7 +1999,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.78/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.78/vendor_boot.zip",
           "size": 24423087,
-          "sha256": "c1f0c61c166b614c26f5ecd1a6fd0eb4cfbaebb533af245e0e279594b2a6c058"
+          "sha256": "c1f0c61c166b614c26f5ecd1a6fd0eb4cfbaebb533af245e0e279594b2a6c058",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "80b4dc75ab211dfc44bfb075262729e89bb4da0b36380dde63459f29321aca62"
+            }
+          ]
         }
       ]
     },
@@ -1240,7 +2024,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.80/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.80/boot.zip",
           "size": 20117990,
-          "sha256": "2eb244a333035f13f133d9f7138f2b8b64620dbc6e4651b5002601e58571debc"
+          "sha256": "2eb244a333035f13f133d9f7138f2b8b64620dbc6e4651b5002601e58571debc",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "d525513003e301d4d1ba32f1b9aeb75b4999ec9f1674c5431eb86a3308666fb6"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1248,7 +2040,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.80/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.80/vendor_boot.zip",
           "size": 24424207,
-          "sha256": "e78bd9510b93e12f01c55a5acc97b32eb3488640a1c0e9c7edc5b1f133a3f341"
+          "sha256": "e78bd9510b93e12f01c55a5acc97b32eb3488640a1c0e9c7edc5b1f133a3f341",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d3f143dd0b3f55c41d3229fe908b2fc32a7996f75cc96f4ed2a5784401f24741"
+            }
+          ]
         }
       ]
     },
@@ -1265,7 +2065,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.84/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.84/boot.zip",
           "size": 20118204,
-          "sha256": "f9f8f26d0119b451b10d9260bffc05bc14a65313edb3d61020a7aca10351bdae"
+          "sha256": "f9f8f26d0119b451b10d9260bffc05bc14a65313edb3d61020a7aca10351bdae",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "690ea043e33732b3830baeefbf0f1281f40389b0b7e05008f0faf954634a5ea0"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1273,7 +2081,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.84/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.84/vendor_boot.zip",
           "size": 24423117,
-          "sha256": "87b50ef9340783732f18bede0b34cab83b8fad3ed427c7ee5677fc2354c9b3d4"
+          "sha256": "87b50ef9340783732f18bede0b34cab83b8fad3ed427c7ee5677fc2354c9b3d4",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "8853ba905e6dcb47e61253a4ece041a22d60a3af2826abb27d957a942bfdd5fb"
+            }
+          ]
         }
       ]
     },
@@ -1290,7 +2106,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.93/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.93/boot.zip",
           "size": 22746583,
-          "sha256": "72f5e026709d9302ec4d32748dbb4127f8341b8fa4d6920cb49879f56743a775"
+          "sha256": "72f5e026709d9302ec4d32748dbb4127f8341b8fa4d6920cb49879f56743a775",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "9bfbbaec6cdb7df129b75cae40c31590e7cbda6b0f9aac11507642111dc61e9d"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1298,7 +2122,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.93/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.93/vendor_boot.zip",
           "size": 32036538,
-          "sha256": "c4d2313acef8a4572a2f0aa5dd9a0a207ae465d3c6b4a49d3e0d1269d231edfb"
+          "sha256": "c4d2313acef8a4572a2f0aa5dd9a0a207ae465d3c6b4a49d3e0d1269d231edfb",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "c3fdfcf051fea0a2efbd7659b8ec086a617db68c05db2c8f6d817457198c72c1"
+            }
+          ]
         }
       ]
     },
@@ -1315,7 +2147,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.96/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.96/boot.zip",
           "size": 22747430,
-          "sha256": "54d0e5b99fd5c7dec2b586a245e43d269bf6da75f86312dd2efb18709b811788"
+          "sha256": "54d0e5b99fd5c7dec2b586a245e43d269bf6da75f86312dd2efb18709b811788",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "3800786a306e9c318b432e54e20642b644c43209a6c812cafab10d56a5839c66"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1323,7 +2163,15 @@
           "path": "boot-recovery/Android-14/GDPR/C.96/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-14/GDPR/C.96/vendor_boot.zip",
           "size": 32063476,
-          "sha256": "bed805c32077b86f8fdc5be076a0e84f3c6b9ca902af37c3dfdf8e0d5f7a7a91"
+          "sha256": "bed805c32077b86f8fdc5be076a0e84f3c6b9ca902af37c3dfdf8e0d5f7a7a91",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "ce10c05c810217d33ad220e79a1b9eadb94e495beb7d9ba69ad2c8ead8943d10"
+            }
+          ]
         }
       ]
     },
@@ -1340,7 +2188,15 @@
           "path": "boot-recovery/Android-15/Export/F.91/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.91/boot.zip",
           "size": 22746445,
-          "sha256": "096767980252c84e33c15218cbd6cb7043d212c82d79a328e91cac674510a842"
+          "sha256": "096767980252c84e33c15218cbd6cb7043d212c82d79a328e91cac674510a842",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "454f432bfe573fe391af7d3aeca6d34acf586fca62bb882f69cfa6e81134d342"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1348,7 +2204,15 @@
           "path": "boot-recovery/Android-15/Export/F.91/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.91/vendor_boot.zip",
           "size": 32035620,
-          "sha256": "d3404b9f24b74119fb42eed1e90248e944e82bacdbd22993c3220b8d24f4fb4b"
+          "sha256": "d3404b9f24b74119fb42eed1e90248e944e82bacdbd22993c3220b8d24f4fb4b",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "80abbf14e2bd91e88e0cfaa2b51d1c37c8e6803c2df50f3b982d0894fba3e360"
+            }
+          ]
         }
       ]
     },
@@ -1365,7 +2229,15 @@
           "path": "boot-recovery/Android-15/Export/F.93/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.93/boot.zip",
           "size": 22747092,
-          "sha256": "3ce67bde01a0766f8188246f2bf22088684e24a9cfc309f110160a15a01f096e"
+          "sha256": "3ce67bde01a0766f8188246f2bf22088684e24a9cfc309f110160a15a01f096e",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "cce74d8006cd0988fd1de2e4544d4e8d0af4e898ca264a0d3dadd0d84e64df50"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1373,7 +2245,15 @@
           "path": "boot-recovery/Android-15/Export/F.93/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.93/vendor_boot.zip",
           "size": 32036547,
-          "sha256": "3605cf1e37a182b89d1c95b8a9307f987d37b270023920b160c7ac283e719d8b"
+          "sha256": "3605cf1e37a182b89d1c95b8a9307f987d37b270023920b160c7ac283e719d8b",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "29f8cf04d4db61aa9f23d2238582567209cedc19ca9975800b7d1229b3996793"
+            }
+          ]
         }
       ]
     },
@@ -1390,7 +2270,15 @@
           "path": "boot-recovery/Android-15/Export/F.94/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.94/boot.zip",
           "size": 22745876,
-          "sha256": "42857bd8bf0e3504043c85a0cd9b6cd096a8fdca6b94bb6d7097212f1c0ca3bd"
+          "sha256": "42857bd8bf0e3504043c85a0cd9b6cd096a8fdca6b94bb6d7097212f1c0ca3bd",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "fd12638cf6059e7128222663c018df3810b6286a506fbd6d205957a29c261bbb"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1398,7 +2286,15 @@
           "path": "boot-recovery/Android-15/Export/F.94/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.94/vendor_boot.zip",
           "size": 32036525,
-          "sha256": "4723f1c2ba3f3024d2ceb44a87a0d79c503be30c7e91550d45c566be0bd1affc"
+          "sha256": "4723f1c2ba3f3024d2ceb44a87a0d79c503be30c7e91550d45c566be0bd1affc",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "32a1acfcddb98e2e8409ba4b398409529f1fdedd08cdcb6776db7adf27e31965"
+            }
+          ]
         }
       ]
     },
@@ -1415,7 +2311,15 @@
           "path": "boot-recovery/Android-15/Export/F.96/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.96/boot.zip",
           "size": 22746878,
-          "sha256": "e08262ec9d6e2ea9481b2a4a0412bf283212658cb306a9936e16a1bacb381b61"
+          "sha256": "e08262ec9d6e2ea9481b2a4a0412bf283212658cb306a9936e16a1bacb381b61",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "67a290c286df4b8f2852bdaee3e98caa284cc09b36c68988ed109f320aac5182"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1423,7 +2327,15 @@
           "path": "boot-recovery/Android-15/Export/F.96/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.96/vendor_boot.zip",
           "size": 32063499,
-          "sha256": "859c38130d035293c18d86b0787f77461a10dc456affb7d6be5ec1740a370997"
+          "sha256": "859c38130d035293c18d86b0787f77461a10dc456affb7d6be5ec1740a370997",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "dda9db71cd20ce3379571a741611806243f3bcba6270ac1f2345a90597880fb6"
+            }
+          ]
         }
       ]
     },
@@ -1440,7 +2352,15 @@
           "path": "boot-recovery/Android-15/Export/F.97/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.97/boot.zip",
           "size": 22746523,
-          "sha256": "8f0c3c1dbfa0cda4f923568482de2a3f12775319c2bc54d1fdbed7ca18956c4c"
+          "sha256": "8f0c3c1dbfa0cda4f923568482de2a3f12775319c2bc54d1fdbed7ca18956c4c",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "3721d934fc3ba96a23938d7e261a3c5418d625fa99ec8ac08c84bacfa2202e59"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1448,7 +2368,15 @@
           "path": "boot-recovery/Android-15/Export/F.97/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.97/vendor_boot.zip",
           "size": 32063546,
-          "sha256": "a1e886514b87822b39bbf5b44a828224fead58b517a64b8e09f82e6ba02cce0c"
+          "sha256": "a1e886514b87822b39bbf5b44a828224fead58b517a64b8e09f82e6ba02cce0c",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "46acdccf22eeafadfc19509381c44026da4b82006844f5d05ed157af3c336a82"
+            }
+          ]
         }
       ]
     },
@@ -1465,7 +2393,15 @@
           "path": "boot-recovery/Android-15/Export/F.98/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.98/boot.zip",
           "size": 22746372,
-          "sha256": "5491a1a478e6c0e2d6d37ba05793ce95e4427cda0ae5589eabbd461ab553a362"
+          "sha256": "5491a1a478e6c0e2d6d37ba05793ce95e4427cda0ae5589eabbd461ab553a362",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "33fb1d3f58bb7d8dc243f4b4f3e783bed7b847f7a0e05842a3620b2bc7c55d81"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1473,7 +2409,15 @@
           "path": "boot-recovery/Android-15/Export/F.98/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.98/vendor_boot.zip",
           "size": 32063640,
-          "sha256": "ca672a41a49de35230e6b383d47492f969e5833384e10c216fdff63804d1d767"
+          "sha256": "ca672a41a49de35230e6b383d47492f969e5833384e10c216fdff63804d1d767",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "496ec0274876b287dc20c66222073c160c5a92713ee2232b1f100dc707b6065a"
+            }
+          ]
         }
       ]
     },
@@ -1490,7 +2434,15 @@
           "path": "boot-recovery/Android-15/Export/F.99/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.99/boot.zip",
           "size": 22745342,
-          "sha256": "118d8a7b3b7f1346b9486cdd1593837e0d5132dfa9bc8a0b7398cbe1d13503aa"
+          "sha256": "118d8a7b3b7f1346b9486cdd1593837e0d5132dfa9bc8a0b7398cbe1d13503aa",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "07a4fdc3bc66a3b00c4a8a6ed351a7c79457f917de30b69dc0ff84e714e8b0af"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1498,7 +2450,15 @@
           "path": "boot-recovery/Android-15/Export/F.99/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/F.99/vendor_boot.zip",
           "size": 32063758,
-          "sha256": "691d5629ef6659bb0a346dd7aba15838de71cc6acdd43dd8ab4e79a5158336a3"
+          "sha256": "691d5629ef6659bb0a346dd7aba15838de71cc6acdd43dd8ab4e79a5158336a3",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "adb6015a4ed24687b9c58952c9007cdc8922e81211a3a7ef56d6945ad5f44772"
+            }
+          ]
         }
       ]
     },
@@ -1515,7 +2475,15 @@
           "path": "boot-recovery/Android-15/Export/H.01/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.01/boot.zip",
           "size": 22746306,
-          "sha256": "bba68d2e35622ec224c0720bba3268c41074b485ef1a78f0962b675bcaabea08"
+          "sha256": "bba68d2e35622ec224c0720bba3268c41074b485ef1a78f0962b675bcaabea08",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "d0df30d6141b8907c3fcb3afe371e74594f145cd9a073b08b1bb67c04b974c50"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1523,7 +2491,15 @@
           "path": "boot-recovery/Android-15/Export/H.01/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.01/vendor_boot.zip",
           "size": 32038158,
-          "sha256": "13d3ff33ad65a62aae2d96a6af45621a4a6cec9fbd99421a1e54104a4ef6c59d"
+          "sha256": "13d3ff33ad65a62aae2d96a6af45621a4a6cec9fbd99421a1e54104a4ef6c59d",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "af3b5ad1a8ae599c468c40f6b8dd064ea392ea03193208001a41c95ef51b3724"
+            }
+          ]
         }
       ]
     },
@@ -1540,7 +2516,15 @@
           "path": "boot-recovery/Android-15/Export/H.01 (incl. EEA)/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.01%20%28incl.%20EEA%29/boot.zip",
           "size": 22746478,
-          "sha256": "fa51dc870108432c8edb1bf69126fce56e2f68b0a6305e12aabd272039dfb81d"
+          "sha256": "fa51dc870108432c8edb1bf69126fce56e2f68b0a6305e12aabd272039dfb81d",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c16541a10a59a9532dc1e8daf0869ba186e66b6f0627bbfd9671f561bb883e01"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1548,7 +2532,15 @@
           "path": "boot-recovery/Android-15/Export/H.01 (incl. EEA)/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.01%20%28incl.%20EEA%29/vendor_boot.zip",
           "size": 32038139,
-          "sha256": "5ab4a586b6834f61085f294bec6f9cbf57ea7fc7576d2ddf0bd3dc70310ad62f"
+          "sha256": "5ab4a586b6834f61085f294bec6f9cbf57ea7fc7576d2ddf0bd3dc70310ad62f",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1a26f40994ac95e0d3adb6f9668dc90aa7ebfaf1d5aaf023ded349c3c9c4325c"
+            }
+          ]
         }
       ]
     },
@@ -1565,7 +2557,15 @@
           "path": "boot-recovery/Android-15/Export/H.05/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.05/boot.zip",
           "size": 22746504,
-          "sha256": "7f8a06dbd1feebe56dccef2a27fcabb4f312aaa1a25a4e41784d3ba192590710"
+          "sha256": "7f8a06dbd1feebe56dccef2a27fcabb4f312aaa1a25a4e41784d3ba192590710",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "6e356eaaae834c32fbd38a244c98cbb037334db594a43ec48fc4d938204e1902"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1573,7 +2573,15 @@
           "path": "boot-recovery/Android-15/Export/H.05/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.05/vendor_boot.zip",
           "size": 32038211,
-          "sha256": "cd8df8a62a33ef0a6270889bcee08d0f6927a23e022c54193fda45e497aa2a40"
+          "sha256": "cd8df8a62a33ef0a6270889bcee08d0f6927a23e022c54193fda45e497aa2a40",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "b8fc5aa9c2d6fccc610c8ccd777154471a32f4ade3255860b6ab24ac785b13c2"
+            }
+          ]
         }
       ]
     },
@@ -1590,7 +2598,15 @@
           "path": "boot-recovery/Android-15/Export/H.06/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.06/boot.zip",
           "size": 22754744,
-          "sha256": "2fca6a992a758ca4b0bbeef53fd2f5e7a6e8ab21bc01794bc4ced8b9f5c58271"
+          "sha256": "2fca6a992a758ca4b0bbeef53fd2f5e7a6e8ab21bc01794bc4ced8b9f5c58271",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "3ad10b1c165907532dc3bb54d30a934b21dd60677c19081e0ea02bdc04f0695c"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1598,7 +2614,15 @@
           "path": "boot-recovery/Android-15/Export/H.06/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.06/vendor_boot.zip",
           "size": 32066943,
-          "sha256": "e066852ced5ca1c74a038842447b94848e91eb6b3d8ce84a24b212242a8f189c"
+          "sha256": "e066852ced5ca1c74a038842447b94848e91eb6b3d8ce84a24b212242a8f189c",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "861ac8d5abdc4df3bcf95a5e01f26ec07b992e2f905699deb6fe09cf279249fb"
+            }
+          ]
         }
       ]
     },
@@ -1615,7 +2639,15 @@
           "path": "boot-recovery/Android-15/Export/H.07/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.07/boot.zip",
           "size": 22754232,
-          "sha256": "8e535bdef36162af07e6eb9ea77817b4cf6f8e20f7baf8337f64a1666a4362d2"
+          "sha256": "8e535bdef36162af07e6eb9ea77817b4cf6f8e20f7baf8337f64a1666a4362d2",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "39ee9fb2925775a725eab9bed3ca1226ae6d1709a8548a0ab93e623f9e413010"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1623,7 +2655,15 @@
           "path": "boot-recovery/Android-15/Export/H.07/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.07/vendor_boot.zip",
           "size": 32066749,
-          "sha256": "c9d92e314b4ea6f7f34b8ff2662bc236784d8944f5a1628f7aa063e93f68ae0d"
+          "sha256": "c9d92e314b4ea6f7f34b8ff2662bc236784d8944f5a1628f7aa063e93f68ae0d",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "d53d77dfe946429f882dcc91991b7b162618e4146294017a2c775e669dc41356"
+            }
+          ]
         }
       ]
     },
@@ -1640,7 +2680,15 @@
           "path": "boot-recovery/Android-15/Export/H.08/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.08/boot.zip",
           "size": 22780342,
-          "sha256": "c4271d4bbcf8f59b2c84fa892fd78568a953720e204c9f6b5700313244d95186"
+          "sha256": "c4271d4bbcf8f59b2c84fa892fd78568a953720e204c9f6b5700313244d95186",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "97712d4faaa50dcf762e0bb8cc41e2dc01d5a238147e14f768a782550c779e80"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1648,7 +2696,15 @@
           "path": "boot-recovery/Android-15/Export/H.08/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.08/vendor_boot.zip",
           "size": 32090444,
-          "sha256": "9672160fb21751b5c3b80096f8345720d0ec863af561d4f9dc4f0f9026070977"
+          "sha256": "9672160fb21751b5c3b80096f8345720d0ec863af561d4f9dc4f0f9026070977",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "b7503ae0a9fce13a35e8e4bc11fa29aa7428265566caeae9445689b956996ebc"
+            }
+          ]
         }
       ]
     },
@@ -1665,7 +2721,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.91/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.91/boot.zip",
           "size": 22740368,
-          "sha256": "91a05fa22ed0c342a0d497c7cc50e820571fd54edf930101ac26b1294a077ec8"
+          "sha256": "91a05fa22ed0c342a0d497c7cc50e820571fd54edf930101ac26b1294a077ec8",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "b775355e88a144a2684a2d4a2911b5a8c95f15fc039cd434ec85ee0ed3abcfba"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1673,7 +2737,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.91/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.91/vendor_boot.zip",
           "size": 32034365,
-          "sha256": "bd321e70b0031b9a68cd9d7c79251a11857e37a6c830868a9c534730b96a046a"
+          "sha256": "bd321e70b0031b9a68cd9d7c79251a11857e37a6c830868a9c534730b96a046a",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "885a9caf05a3fbbceea639b3ec220a4825c290873ece10239ccabc27bd975100"
+            }
+          ]
         }
       ]
     },
@@ -1690,7 +2762,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.93/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.93/boot.zip",
           "size": 22746583,
-          "sha256": "5249e7cc914eeacbf4f18449ebfa03a8269fe9df20c7dca65fd266df5c00ead4"
+          "sha256": "5249e7cc914eeacbf4f18449ebfa03a8269fe9df20c7dca65fd266df5c00ead4",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "9bfbbaec6cdb7df129b75cae40c31590e7cbda6b0f9aac11507642111dc61e9d"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1698,7 +2778,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.93/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.93/vendor_boot.zip",
           "size": 32036538,
-          "sha256": "3e5c1f758cdd47ef1c1bb74d20366ebae14f5473f8d52787dcafe60d9f1fb03c"
+          "sha256": "3e5c1f758cdd47ef1c1bb74d20366ebae14f5473f8d52787dcafe60d9f1fb03c",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "c3fdfcf051fea0a2efbd7659b8ec086a617db68c05db2c8f6d817457198c72c1"
+            }
+          ]
         }
       ]
     },
@@ -1715,7 +2803,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.94/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.94/boot.zip",
           "size": 22746842,
-          "sha256": "b6c1b0b774d00510ad85caeb64bc0d22bdb70e85335b4bbe7144fe05916b2b47"
+          "sha256": "b6c1b0b774d00510ad85caeb64bc0d22bdb70e85335b4bbe7144fe05916b2b47",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "41f0f09e04bee56037aecce6f4fa3f845d287b2c8756bc46602667b02d3e70e7"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1723,7 +2819,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.94/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.94/vendor_boot.zip",
           "size": 32036577,
-          "sha256": "7ff75b370d31006a00f83239394ed52980968d7c1280da46c90acd77269d19eb"
+          "sha256": "7ff75b370d31006a00f83239394ed52980968d7c1280da46c90acd77269d19eb",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "1563db9d60fdb4c1fcf47a65c5b4cdb23d0a3a5e63aca5d8ed605d0c87838c05"
+            }
+          ]
         }
       ]
     },
@@ -1740,7 +2844,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.96/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.96/boot.zip",
           "size": 22747430,
-          "sha256": "c3805929ecb1861a1b2af23038d0e6a4d25b5a29f3fb955e7399e72f7e621496"
+          "sha256": "c3805929ecb1861a1b2af23038d0e6a4d25b5a29f3fb955e7399e72f7e621496",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "3800786a306e9c318b432e54e20642b644c43209a6c812cafab10d56a5839c66"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1748,7 +2860,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.96/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.96/vendor_boot.zip",
           "size": 32063476,
-          "sha256": "747d39e93a4e85ca0d819beea09458fff1d4690fe72c86cdcbe336eebe2936cd"
+          "sha256": "747d39e93a4e85ca0d819beea09458fff1d4690fe72c86cdcbe336eebe2936cd",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "ce10c05c810217d33ad220e79a1b9eadb94e495beb7d9ba69ad2c8ead8943d10"
+            }
+          ]
         }
       ]
     },
@@ -1765,7 +2885,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.97/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.97/boot.zip",
           "size": 22746883,
-          "sha256": "4064b1778c6f7d547fc9b8ab834de7e70f42296ca0373fc9b0b63bfaabbc6532"
+          "sha256": "4064b1778c6f7d547fc9b8ab834de7e70f42296ca0373fc9b0b63bfaabbc6532",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "58f62e462d78bcc4d6baa10b9bbe5cfc77094df2ea3c3cf97ea3a23e1146e08f"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1773,7 +2901,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.97/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.97/vendor_boot.zip",
           "size": 32063540,
-          "sha256": "ec352f9193da868ce535f167a30f729d42662516da1343d670eccd83a93d43b0"
+          "sha256": "ec352f9193da868ce535f167a30f729d42662516da1343d670eccd83a93d43b0",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "dd870d357fbce3792b8b42a5b0acd619f4895d6b469a5edcefb063ac96938af5"
+            }
+          ]
         }
       ]
     },
@@ -1790,7 +2926,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.98/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.98/boot.zip",
           "size": 22746392,
-          "sha256": "248139c1e730379826a4faa4c292c8f0cf65bed7913c4dbd06ccccc4232223e2"
+          "sha256": "248139c1e730379826a4faa4c292c8f0cf65bed7913c4dbd06ccccc4232223e2",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "6cc77e65b0d6f33ae16c0712f3411eac400c4e0b062ee52d2e2b48a19a1440e5"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1798,7 +2942,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.98/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.98/vendor_boot.zip",
           "size": 32063693,
-          "sha256": "947baff7915843daa06cde3ddc58faa428159ad78589228492d54fce141ecec5"
+          "sha256": "947baff7915843daa06cde3ddc58faa428159ad78589228492d54fce141ecec5",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "b707a79a9cad8cc0f705fab6923a24336afe582496dd589909ee559a7dad10ec"
+            }
+          ]
         }
       ]
     },
@@ -1815,7 +2967,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.99/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.99/boot.zip",
           "size": 22745985,
-          "sha256": "b0ff28bf6d5d0640ad4ecf1a7feafa6dd781e25f60f5a8ceaca131670e133e6d"
+          "sha256": "b0ff28bf6d5d0640ad4ecf1a7feafa6dd781e25f60f5a8ceaca131670e133e6d",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "ba3bc7c1a2daeb2b9443dc04a844e88f2c4c76ac99cfe6caf22080b6e75d1772"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1823,7 +2983,15 @@
           "path": "boot-recovery/Android-15/GDPR/F.99/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/F.99/vendor_boot.zip",
           "size": 32063844,
-          "sha256": "68988bb995030a6b330e651d59646a20a5ba3138040decfa712a3cf3ebcca080"
+          "sha256": "68988bb995030a6b330e651d59646a20a5ba3138040decfa712a3cf3ebcca080",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "aa9dbbea3bb3dccffc964288b9dbda4ea44e4272096fb4c56a6b97149ebe79b8"
+            }
+          ]
         }
       ]
     },
@@ -1840,7 +3008,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.01/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.01/boot.zip",
           "size": 22746336,
-          "sha256": "c55a1f427a7b48b66442d0fe7c19ec650f111a8df0b0a5fe5505e73fd688636e"
+          "sha256": "c55a1f427a7b48b66442d0fe7c19ec650f111a8df0b0a5fe5505e73fd688636e",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "1f2e41017ad008ef4113cdd3c9e829a10cedc4f24f7d6de6d885e5c2c805c2db"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1848,7 +3024,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.01/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.01/vendor_boot.zip",
           "size": 32038476,
-          "sha256": "680f86729f6436f11ddaa8c83402b0146f89d53538767a11074348798bac766a"
+          "sha256": "680f86729f6436f11ddaa8c83402b0146f89d53538767a11074348798bac766a",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "247f304396e56f070857c96b0b506881abc7eab4fc2d66808725161ee8b0b99e"
+            }
+          ]
         }
       ]
     },
@@ -1865,7 +3049,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.05/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.05/boot.zip",
           "size": 22746394,
-          "sha256": "e4751264e81a8aa40700ba02504f8a0e0e164cebe17e53bea6371ade6096bb05"
+          "sha256": "e4751264e81a8aa40700ba02504f8a0e0e164cebe17e53bea6371ade6096bb05",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "cf9e8d53a7a14ee507558e75daccda9f25b41572b54d67ee18a6fc2f5cdcf179"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1873,7 +3065,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.05/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.05/vendor_boot.zip",
           "size": 32038888,
-          "sha256": "7ed4f94adfb7708cef743ef1f17cf84fa70ad30878de00d9fd8fbef1de0445ba"
+          "sha256": "7ed4f94adfb7708cef743ef1f17cf84fa70ad30878de00d9fd8fbef1de0445ba",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "84b56e8dfeab8b4cfd0298d7f1441f37410e865b3e43fc39aa96caa51211fb03"
+            }
+          ]
         }
       ]
     },
@@ -1890,7 +3090,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.06/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.06/boot.zip",
           "size": 22780678,
-          "sha256": "8e402ed75af9814825f084cc1a9a8bb375172d59252df99e7878037a63fecdfb"
+          "sha256": "8e402ed75af9814825f084cc1a9a8bb375172d59252df99e7878037a63fecdfb",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "fd84f706be8fdfaa5ed7e440ff6f929a9b38447ca5ed734130418aba6a00d16b"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1898,7 +3106,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.06/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.06/vendor_boot.zip",
           "size": 32070792,
-          "sha256": "c870d821bf8189fbe818c49a5416f85a9c98d5041b983b38d3dd75767ebf9790"
+          "sha256": "c870d821bf8189fbe818c49a5416f85a9c98d5041b983b38d3dd75767ebf9790",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "63655c46c1c513be563272f36f30666e52aa30f6ca5b6453602e9ab2a3b9407d"
+            }
+          ]
         }
       ]
     },
@@ -1915,7 +3131,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.07/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.07/boot.zip",
           "size": 22781313,
-          "sha256": "eeca5dff3f8aecbff00588c4077045a328e5e55dd4ad867a78de077947f333f6"
+          "sha256": "eeca5dff3f8aecbff00588c4077045a328e5e55dd4ad867a78de077947f333f6",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "c5a20599993d1f01a62ddf481b66d751fde6a5cdf982e2e2974d33af4e6f5ca7"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1923,7 +3147,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.07/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.07/vendor_boot.zip",
           "size": 32070064,
-          "sha256": "5e570d95b6a2c1fd1e89d3987d03c36b12134182d77413582d3da96bb432b6ef"
+          "sha256": "5e570d95b6a2c1fd1e89d3987d03c36b12134182d77413582d3da96bb432b6ef",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "512874b72add2b41dfd6460c103654c06c028c35fc288c1aa7403c082fe11edd"
+            }
+          ]
         }
       ]
     },
@@ -1940,7 +3172,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.08/boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.08/boot.zip",
           "size": 22779801,
-          "sha256": "e20252deacecaf02858186c00d128495889da975dad525ba4152070e17c77655"
+          "sha256": "e20252deacecaf02858186c00d128495889da975dad525ba4152070e17c77655",
+          "images": [
+            {
+              "kind": "boot",
+              "name": "boot.img",
+              "size": 67108864,
+              "sha256": "1ee7e5e2a1d9126224453683570b4c1f03e98b0297f77cc0c96707619f9d1185"
+            }
+          ]
         },
         {
           "kind": "vendor_boot",
@@ -1948,7 +3188,15 @@
           "path": "boot-recovery/Android-15/GDPR/H.08/vendor_boot.zip",
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/GDPR/H.08/vendor_boot.zip",
           "size": 32090552,
-          "sha256": "16305643af4ad5ece78a4927ec58277c54b3cd6af993968b7465b946d1a8df13"
+          "sha256": "16305643af4ad5ece78a4927ec58277c54b3cd6af993968b7465b946d1a8df13",
+          "images": [
+            {
+              "kind": "vendor_boot",
+              "name": "vendor_boot.img",
+              "size": 104857600,
+              "sha256": "a6ce332724444e7af4c44dbd881cae59cb0854d459f4bdcfaeb640ddc0cc0497"
+            }
+          ]
         }
       ]
     }
