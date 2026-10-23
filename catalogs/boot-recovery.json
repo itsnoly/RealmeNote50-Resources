@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-23T00:54:09Z",
+  "generatedAt": "2026-10-23T11:46:48Z",
   "builds": [
     {
       "id": "Android-13/Export/A.11",
@@ -1624,6 +1624,31 @@
           "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.07/vendor_boot.zip",
           "size": 32066749,
           "sha256": "c9d92e314b4ea6f7f34b8ff2662bc236784d8944f5a1628f7aa063e93f68ae0d"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.08",
+      "android": 15,
+      "region": "export",
+      "ver": "H.08",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.08/boot.zip",
+          "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.08/boot.zip",
+          "size": 22780342,
+          "sha256": "c4271d4bbcf8f59b2c84fa892fd78568a953720e204c9f6b5700313244d95186"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.08/vendor_boot.zip",
+          "url": "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/boot-recovery/Android-15/Export/H.08/vendor_boot.zip",
+          "size": 32090444,
+          "sha256": "9672160fb21751b5c3b80096f8345720d0ec863af561d4f9dc4f0f9026070977"
         }
       ]
     },
