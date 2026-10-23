@@ -5,10 +5,14 @@ import re
 import sys
 import zipfile
 from datetime import datetime, timezone
+from urllib.parse import quote
 
 ROOT = "boot-recovery"
 CATALOG_PATH = "catalogs/boot-recovery.json"
 SCHEMA = 1
+
+# Download base for every file. The app accepts only this prefix (see BootCatalog.parse).
+RAW_BASE = "https://raw.githubusercontent.com/itsnoly/RealmeNote50-Resources/refs/heads/main/"
 
 EXTENSION = re.compile(r"\.(zip|img|bin|7z|tar|gz|xz|lz4)$", re.I)
 KINDS = [
@@ -36,6 +40,14 @@ def head_of(folder):
     named = NAME_NOTE.match(raw)
     ver, note = (named.group(1), named.group(2)) if named else (raw, "")
     return android, region, ver, note
+
+
+def download_url(path):
+    """Full download address. Each path segment is percent-encoded (spaces and parentheses)."""
+    url = RAW_BASE + "/".join(quote(segment, safe="") for segment in path.split("/"))
+    if not url.startswith(RAW_BASE):
+        sys.exit(f"Download address outside the allowed base: {url}")
+    return url
 
 
 def sha256_of(path):
@@ -81,8 +93,12 @@ def build_entries():
                 "ver": ver, "note": note, "files": [],
             }
         builds[key]["files"].append({
-            "kind": kind, "name": name, "path": path,
-            "size": os.path.getsize(path), "sha256": sha256_of(path),
+            "kind": kind,
+            "name": name,
+            "path": path,
+            "url": download_url(path),
+            "size": os.path.getsize(path),
+            "sha256": sha256_of(path),
         })
     return [builds[k] for k in sorted(builds)]
 
