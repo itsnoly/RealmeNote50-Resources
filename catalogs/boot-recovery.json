@@ -1,0 +1,1777 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-23T00:35:40Z",
+  "builds": [
+    {
+      "id": "Android-13/Export/A.11",
+      "android": 13,
+      "region": "export",
+      "ver": "A.11",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.11/boot.zip",
+          "size": 19500670,
+          "sha256": "d0c9ef4fe2f913933b8db754df85a32f6a00484716c698c6c88ab6a08ddf61c2"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.11/vendor_boot.zip",
+          "size": 24324050,
+          "sha256": "cfa31ccfe8592a732da063863989cc5aba49ac03b911d886c718c3d8577ba585"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.13",
+      "android": 13,
+      "region": "export",
+      "ver": "A.13",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.13/boot.zip",
+          "size": 19497228,
+          "sha256": "efb9769bacf0ee97a40fec85672e6bb7c172af56d2ddab0c0706ea7b393b98a1"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.13/vendor_boot.zip",
+          "size": 24323988,
+          "sha256": "f6c3daf41ed638b251348e2f5fb914ab2944e0e9c5c1c054b3468bc142a05304"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.15",
+      "android": 13,
+      "region": "export",
+      "ver": "A.15",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.15/boot.zip",
+          "size": 19500034,
+          "sha256": "1a2a316567d5fa95d9c8f7b2120047ac300f4aab61ab1e1d8ec22f154edaa906"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.15/vendor_boot.zip",
+          "size": 24323337,
+          "sha256": "bc3d70acacc61899c1237147eeb95589da5233256c3ee281047c92b7aafb35d4"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.17",
+      "android": 13,
+      "region": "export",
+      "ver": "A.17",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.17/boot.zip",
+          "size": 19502027,
+          "sha256": "7acc0a0d6242aa3f72c683887a74c472c3cb82385708ea588846cf905ffd3f00"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.17/vendor_boot.zip",
+          "size": 24323409,
+          "sha256": "7ca2462d5065461aab648dd4075fd8fb9459571abf818925e7206dbdccfaa4ed"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.23",
+      "android": 13,
+      "region": "export",
+      "ver": "A.23",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.23/boot.zip",
+          "size": 19501498,
+          "sha256": "be1f3f41dbe8ef93251c2a2c4ea7ca1222f6e2b2c1e95ac7f8d01175b1927228"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.23/vendor_boot.zip",
+          "size": 24423898,
+          "sha256": "5e5995c9dd2bdb9fc090852c9649f3cd8dc2357519ae04bd3295f07f49fda365"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.27",
+      "android": 13,
+      "region": "export",
+      "ver": "A.27",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.27/boot.zip",
+          "size": 19499978,
+          "sha256": "d18eb9ca88b4136636be8fc82ea45f6f3edf70f403461ffbe5dddb92a0faae11"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.27/vendor_boot.zip",
+          "size": 24423887,
+          "sha256": "4fbdf9a71967882d4eb098112861a165f1415cc4f29f3e6e19def42ffebc97c9"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.33",
+      "android": 13,
+      "region": "export",
+      "ver": "A.33",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.33/boot.zip",
+          "size": 19501316,
+          "sha256": "2a5e0b7f3098078034df506f803a857d3366b944d96a4dc0c501439df693f602"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.33/vendor_boot.zip",
+          "size": 24423565,
+          "sha256": "75c8d7b6593af80df33fb139f7bd9bb7c3fa1cb31612df83bf4592023915ebc5"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.39",
+      "android": 13,
+      "region": "export",
+      "ver": "A.39",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.39/boot.zip",
+          "size": 19506706,
+          "sha256": "b106b620c3667b3bf0ec10a035408c325379552fdddb5286564fa69c67ce2aa9"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.39/vendor_boot.zip",
+          "size": 24423262,
+          "sha256": "2b35dd2e14c97256dd1a8aa7439d19d6909268d262975f33b7f61843ed2cca2b"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.45",
+      "android": 13,
+      "region": "export",
+      "ver": "A.45",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.45/boot.zip",
+          "size": 19506642,
+          "sha256": "6eece381c1e3c8a967d7e1ba8471a9ff8ad10e62060f4648996f243af7a058cd"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.45/vendor_boot.zip",
+          "size": 24423728,
+          "sha256": "867c8f5b9d1d69b070037eea2331d2ae85eedcb294b8645961ca140b62375a9f"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.49",
+      "android": 13,
+      "region": "export",
+      "ver": "A.49",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.49/boot.zip",
+          "size": 19506004,
+          "sha256": "ddf83f21a47ec226a5c73aaded9179545a3cb0161671e4ff54ee074022df104e"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.49/vendor_boot.zip",
+          "size": 24424034,
+          "sha256": "b707e049123aa518e853122a8d0f249fa6136b6a38152a97e54d853e3be044f3"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.51",
+      "android": 13,
+      "region": "export",
+      "ver": "A.51",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.51/boot.zip",
+          "size": 19507078,
+          "sha256": "bae693665f2931ce3cc256f1f015a10f39150af02b5af11f9117e2e87c5644c9"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.51/vendor_boot.zip",
+          "size": 24424056,
+          "sha256": "c65a790211afe007c891c0ff09f6211fc566dc0f9098b408a7872a48bc026bee"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.53",
+      "android": 13,
+      "region": "export",
+      "ver": "A.53",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.53/boot.zip",
+          "size": 19505882,
+          "sha256": "da9dc0f620febdbc0ab82b8b1610434a49c22191a5892db960a1b69fe5e85622"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.53/vendor_boot.zip",
+          "size": 24423346,
+          "sha256": "1ab7130fbdd97af54c31b5500dbb0dd9c0d7d9af6c03bab218c0438c0b9e92c3"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.55",
+      "android": 13,
+      "region": "export",
+      "ver": "A.55",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.55/boot.zip",
+          "size": 19505245,
+          "sha256": "18d45dddfa1bf9c045ddcd27d02f38ac4dc5c54d90ffb998feee61fb3f785511"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.55/vendor_boot.zip",
+          "size": 24423591,
+          "sha256": "8de8ef4b694eca6c416b65d348b01f208703ce4f5d2cc25f2518084dc709e77d"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.61",
+      "android": 13,
+      "region": "export",
+      "ver": "A.61",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.61/boot.zip",
+          "size": 19507463,
+          "sha256": "66b726bd971e5a9be2a78b0cc559f12a2088f88999dec409ceb03e5bcde564d0"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.61/vendor_boot.zip",
+          "size": 24423839,
+          "sha256": "63456ba0c6839e8f8b72bd4a1a1c441aca9d5d98ddd2dbfe9a3469b6f8cb5f88"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.65",
+      "android": 13,
+      "region": "export",
+      "ver": "A.65",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.65/boot.zip",
+          "size": 19504738,
+          "sha256": "faa79388c5cbd0f8e695c7b7a7eb086cdca860c77da14a3c14afce5a3809fdfd"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.65/vendor_boot.zip",
+          "size": 24423273,
+          "sha256": "c8045a086c51bbde5b73f5456159fa873cc47ff8b21a3ca627bf4dda27628e7e"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.67",
+      "android": 13,
+      "region": "export",
+      "ver": "A.67",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.67/boot.zip",
+          "size": 19506650,
+          "sha256": "b2babd9edc9e1c64d1fc3f62299f2ded8c5047e4419d7d5f78b637bdefa235d2"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.67/vendor_boot.zip",
+          "size": 24423276,
+          "sha256": "b8f807c132cfd71f284e8267cc8bf19f9b0fda94f2e32396190a74972bc1c038"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.68",
+      "android": 13,
+      "region": "export",
+      "ver": "A.68",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.68/boot.zip",
+          "size": 20116584,
+          "sha256": "1a48a46410ba34c916c88e9f80f01cc620c64ef526bd07915e6aeb76389960b9"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.68/vendor_boot.zip",
+          "size": 24421591,
+          "sha256": "0034c23a42e4b0bd61a5743d1544f41963bf9823beefe0c2159f22901ce16eac"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.72",
+      "android": 13,
+      "region": "export",
+      "ver": "A.72",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.72/boot.zip",
+          "size": 20116900,
+          "sha256": "301f3fa1c91f3442ae4143ad5b4106cf0875299d94bb466a9e1bad7477ec23a2"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.72/vendor_boot.zip",
+          "size": 24423763,
+          "sha256": "4d6d0515c0af8e7c649e275f8c772f19b4ed1f3e45ea840b61038d966b17280d"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.77",
+      "android": 13,
+      "region": "export",
+      "ver": "A.77",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.77/boot.zip",
+          "size": 19509480,
+          "sha256": "c1406e645822f4b5f44c2fb2ee19680109136edbc62bae5663176771a1dd773b"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.77/vendor_boot.zip",
+          "size": 24432333,
+          "sha256": "bfcc9d58c42614cedad13b0c9669fb52f0a661b8c402525122fa7d2167c9fa21"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.78",
+      "android": 13,
+      "region": "export",
+      "ver": "A.78",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.78/boot.zip",
+          "size": 16372163,
+          "sha256": "43117f9f704353f8b9d5f148a46deba97f70da38a3821a44d4c18a2739f379cb"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.78/vendor_boot.zip",
+          "size": 21692223,
+          "sha256": "78eefbc2236d2516c1ad54d7cdace50b02e315d1c55b4b037f935673d544bed2"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.83",
+      "android": 13,
+      "region": "export",
+      "ver": "A.83",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.83/boot.zip",
+          "size": 19509791,
+          "sha256": "e444d5d511d498567088732506524f5a1d6820cf36ef57d5517839497cf58ced"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.83/vendor_boot.zip",
+          "size": 24432415,
+          "sha256": "4b116bf650cafe73c4ea3483bb92330e668bc4c6e4bccb0fa0f1c6b3eaf9866e"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.85",
+      "android": 13,
+      "region": "export",
+      "ver": "A.85",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.85/boot.zip",
+          "size": 19509628,
+          "sha256": "fe468780fa0621ab8ac01df7d827d84910ea124c29baaf1b4df38c53e2b10c93"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.85/vendor_boot.zip",
+          "size": 24430404,
+          "sha256": "b3a182602b3dd845352d6d093c7b9e4fb6593f9478f692274932ebc9fdf690b1"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/Export/A.89",
+      "android": 13,
+      "region": "export",
+      "ver": "A.89",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.89/boot.zip",
+          "size": 19508669,
+          "sha256": "340d17cb864c403d739358bddc1bc2675b812294950509a64118912b58390101"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/Export/A.89/vendor_boot.zip",
+          "size": 24434097,
+          "sha256": "670855f82544fb000d247428d9c3f1a75e19772aa46a5696bec2373bc1582a52"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.12",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.12",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.12/boot.zip",
+          "size": 19500294,
+          "sha256": "b1905f4169403aa1b5042ceab87ce6e1ce765490587ef23b6f7d48017b9ced49"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.12/vendor_boot.zip",
+          "size": 24322643,
+          "sha256": "e2f4aa084cc5c8e829d08a6fd7a3674454ea8020c761681751dd3e0ed7c562b8"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.18",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.18",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.18/boot.zip",
+          "size": 19502435,
+          "sha256": "647783e9b472667d4a3560c5c523a98191fae213af7e1e6d98d1ccd387f541df"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.18/vendor_boot.zip",
+          "size": 24423111,
+          "sha256": "d804d392786ebb24d207050fc2c3e7540b4d2aa8fabc329176f9ea7d81fdcda4"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.20",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.20",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.20/boot.zip",
+          "size": 19504745,
+          "sha256": "eadf15da400325f3563987f2eb2a570d276f3d60708e4de7810fc3bdf987f5bd"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.20/vendor_boot.zip",
+          "size": 24423488,
+          "sha256": "7625e66e0b1a1a58f38e78fa1f52bab69b48313bd7bc06564f347bc6a13cd3d9"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.50",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.50",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.50/boot.zip",
+          "size": 19506856,
+          "sha256": "5188a6bb8b267800523f1113aa2eac62c35188c1eb43548c52db164b005c429c"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.50/vendor_boot.zip",
+          "size": 24423993,
+          "sha256": "f2e7149ab4afab09db979289907166e7897dfe1acc4ff6033c3e1632baecd692"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.52",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.52",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.52/boot.zip",
+          "size": 19507214,
+          "sha256": "047fb798bb7e61bdf7a7800930e249dd2ce9684d156c7fa12ad17ed2235ad8a7"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.52/vendor_boot.zip",
+          "size": 24423245,
+          "sha256": "d9a7fb1bc26dd7fa685e041381842b7f5035b0da815008f692a39c46c282ab1f"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.54",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.54",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.54/boot.zip",
+          "size": 19507131,
+          "sha256": "15b73c5ad5ec46414bc502007afd85d6e4bcaf5ee260a53e478c9155f3201830"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.54/vendor_boot.zip",
+          "size": 24423315,
+          "sha256": "c7442c3d7c4f7372f2124f0ae787dcaa844ade6b691e05087e80a3d0b1a747c2"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.66",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.66",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.66/boot.zip",
+          "size": 19508068,
+          "sha256": "9b0c2f7893e8f769771dcb8ea5dbece9cbb3064ec22546627b7770620cfb2fc8"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.66/vendor_boot.zip",
+          "size": 24423192,
+          "sha256": "077e1851e8284453d79af002409110724e17a1da4a24525f95794cb217240e4d"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.73",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.73",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.73/boot.zip",
+          "size": 20117722,
+          "sha256": "df9cac3151af917a1e72cd090686ccb7a55571c0f3654317ea8aa3dca2cee0b8"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.73/vendor_boot.zip",
+          "size": 24422699,
+          "sha256": "f36b0e886c06ecb82c716493f7dc6ee1f48727aba9cb33aed408806525b94bde"
+        }
+      ]
+    },
+    {
+      "id": "Android-13/GDPR/A.84",
+      "android": 13,
+      "region": "gdpr",
+      "ver": "A.84",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.84/boot.zip",
+          "size": 19508858,
+          "sha256": "06f23985ab02f006157a6e47df284d74b27ceadb8c06d3fb6612343512264741"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-13/GDPR/A.84/vendor_boot.zip",
+          "size": 24430567,
+          "sha256": "af714728279755ea60ad1e81861b63736fda931b0153d9e30b323685c41ab243"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.13",
+      "android": 14,
+      "region": "export",
+      "ver": "C.13",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.13/boot.zip",
+          "size": 20117348,
+          "sha256": "5a00bf20246458cf181d7ec65c3fa87c2c35ad4a27e9d7321bbe9be4f7d8d856"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.13/vendor_boot.zip",
+          "size": 24422371,
+          "sha256": "443c9fb831cc4381d6bd9f22bdda809fcfa5b66368e8258deed410884077b72a"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.62",
+      "android": 14,
+      "region": "export",
+      "ver": "C.62",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.62/boot.zip",
+          "size": 20111417,
+          "sha256": "e3aab54653ac5fdaf9171da13030989aef33d3909e4cb8c9bef2462d426b0230"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.62/vendor_boot.zip",
+          "size": 24422156,
+          "sha256": "c101b21dafa26b39882c029c4bff7fad0c038e3f6d681a020d3df66e828b2f2c"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.65",
+      "android": 14,
+      "region": "export",
+      "ver": "C.65",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.65/boot.zip",
+          "size": 20114706,
+          "sha256": "2d746f0617b82dd9fc4ef40b7c16d80a912a365350a252098f4f1474e57b8802"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.65/vendor_boot.zip",
+          "size": 24422169,
+          "sha256": "309ee97d34cc60e595732a4e38144a12317541e8cbb2b398ba2955655960089a"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.67",
+      "android": 14,
+      "region": "export",
+      "ver": "C.67",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.67/boot.zip",
+          "size": 20116256,
+          "sha256": "6e1aa6ecf6f9f6b9b5f0af17f4b378eee3037d5e8a6740e8ef9655939918eb0c"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.67/vendor_boot.zip",
+          "size": 24421044,
+          "sha256": "e232897c052bc980d174b7afbd74f4d8627ddf4143e45eb7063aeca3fd240638"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.72",
+      "android": 14,
+      "region": "export",
+      "ver": "C.72",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.72/boot.zip",
+          "size": 20116900,
+          "sha256": "c79395f6238cb6c01d49ab34af74a99e8650fb3cbe93d45b38c323120cbab64b"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.72/vendor_boot.zip",
+          "size": 24423763,
+          "sha256": "0e646f28639b9e535ad735ebd5ebacc1e2ada1e736c2eec8b0be3b110fe31464"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.73",
+      "android": 14,
+      "region": "export",
+      "ver": "C.73",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.73/boot.zip",
+          "size": 20114273,
+          "sha256": "97ca5f296ddd626e82b43cfd9868318ce7d305fc66279731b1e943d0b84b0b87"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.73/vendor_boot.zip",
+          "size": 24421826,
+          "sha256": "9b0306073dc2d084c2201d790d6fb9a285a21777bae875073cfa6bba1d3cd179"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.74",
+      "android": 14,
+      "region": "export",
+      "ver": "C.74",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.74/boot.zip",
+          "size": 20117253,
+          "sha256": "6c61c7205f59f6b11cf230dd87329fa6ec3d4acfd43588563f39d4a0c17adb4f"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.74/vendor_boot.zip",
+          "size": 24421802,
+          "sha256": "d0f6208f6314c77227ca3fa7a8b66c63e5d13e8b82789dfa30eb9c2c20b67090"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.75",
+      "android": 14,
+      "region": "export",
+      "ver": "C.75",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.75/boot.zip",
+          "size": 20115794,
+          "sha256": "474fd5f0fb99787d43ea8ab507f5017e11d54e734ca2774d30e9fd1c9ac4c098"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.75/vendor_boot.zip",
+          "size": 24424114,
+          "sha256": "4a7a4f7599df5bdae18b00212ccef13146842c9ca70ed9a336a5b9c4ca156511"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.78",
+      "android": 14,
+      "region": "export",
+      "ver": "C.78",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.78/boot.zip",
+          "size": 20111143,
+          "sha256": "ebe2a5556052b33a855fea22b0f340a824fb90ec755b2e90100c987153b724a5"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.78/vendor_boot.zip",
+          "size": 24423771,
+          "sha256": "6cb17104ec06c4bf8f7f3fab2ab7ae22983c9696657cfec422eae14da994681b"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.80",
+      "android": 14,
+      "region": "export",
+      "ver": "C.80",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.80/boot.zip",
+          "size": 20115297,
+          "sha256": "e6eb20d27c68b97d283d9b1eaf317ea73e12fd9c9e7df0020ffa71341bb4ae37"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.80/vendor_boot.zip",
+          "size": 24424200,
+          "sha256": "2efc4fd6face831dcff265426deab5d5664dec686cf16a2f68470ac5af75ed68"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.84",
+      "android": 14,
+      "region": "export",
+      "ver": "C.84",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.84/boot.zip",
+          "size": 20115028,
+          "sha256": "b0561a136f6702e22465224d42ae8ad2594e6e1120941815994eceef04cdc118"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.84/vendor_boot.zip",
+          "size": 24423961,
+          "sha256": "86c3e2eb955f0e8881f80b098e7d49f1e364142a9d0633edb4cfeadf51c22525"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.93",
+      "android": 14,
+      "region": "export",
+      "ver": "C.93",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.93/boot.zip",
+          "size": 22747092,
+          "sha256": "906527fa7d8f4df79c777e0b2b3824a1465801950d45aae3b2697dcd4a593089"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.93/vendor_boot.zip",
+          "size": 32036547,
+          "sha256": "af38837f2fbf0b85675c31dff7a5987727ea9250b129b8a3403377da672dad7a"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/Export/C.96",
+      "android": 14,
+      "region": "export",
+      "ver": "C.96",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.96/boot.zip",
+          "size": 22746878,
+          "sha256": "12dc92fefcd9d7505f8727f1f84c4b0e8fe918cd3c2cc6f804dc30d037a0adbc"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/Export/C.96/vendor_boot.zip",
+          "size": 32063499,
+          "sha256": "28604db5107b9135434c5497313a7f33fad7a34b70977e4029a8047b6211d6a2"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.67",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.67",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.67/boot.zip",
+          "size": 20114681,
+          "sha256": "bae96e73e133abae8d83daf22c82d5bc9e52881a2d1a7de8dc5851ecf64045c3"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.67/vendor_boot.zip",
+          "size": 24421289,
+          "sha256": "f3b87b771cb88d467b0a2dc098887313ea220d8ba813b6c9366809228e715189"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.73",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.73",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.73/boot.zip",
+          "size": 20117722,
+          "sha256": "51ea29be5fa748938a85090c8c83cfcb6676c03bff8957a654e7de82a830ef14"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.73/vendor_boot.zip",
+          "size": 24422699,
+          "sha256": "8032e2e960ff619071e26f14369cd9e1cd4b35c16b78c67f9a2c19dd390b9649"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.74",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.74",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.74/boot.zip",
+          "size": 20118641,
+          "sha256": "0ba14719a1ff9b99fe3875c80ef494dc3c6923e9cf7f2021524487e34f449b2c"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.74/vendor_boot.zip",
+          "size": 24421321,
+          "sha256": "1532b41fdee7b1a37e7fad618b7730aeb341e657e84f0883e9967433a749a716"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.78",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.78",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.78/boot.zip",
+          "size": 20114863,
+          "sha256": "ed2a153ff9ec53be36500428280b19cb7179c8adffd003094ead212eb39e8a72"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.78/vendor_boot.zip",
+          "size": 24423087,
+          "sha256": "c1f0c61c166b614c26f5ecd1a6fd0eb4cfbaebb533af245e0e279594b2a6c058"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.80",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.80",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.80/boot.zip",
+          "size": 20117990,
+          "sha256": "2eb244a333035f13f133d9f7138f2b8b64620dbc6e4651b5002601e58571debc"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.80/vendor_boot.zip",
+          "size": 24424207,
+          "sha256": "e78bd9510b93e12f01c55a5acc97b32eb3488640a1c0e9c7edc5b1f133a3f341"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.84",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.84",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.84/boot.zip",
+          "size": 20118204,
+          "sha256": "f9f8f26d0119b451b10d9260bffc05bc14a65313edb3d61020a7aca10351bdae"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.84/vendor_boot.zip",
+          "size": 24423117,
+          "sha256": "87b50ef9340783732f18bede0b34cab83b8fad3ed427c7ee5677fc2354c9b3d4"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.93",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.93",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.93/boot.zip",
+          "size": 22746583,
+          "sha256": "72f5e026709d9302ec4d32748dbb4127f8341b8fa4d6920cb49879f56743a775"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.93/vendor_boot.zip",
+          "size": 32036538,
+          "sha256": "c4d2313acef8a4572a2f0aa5dd9a0a207ae465d3c6b4a49d3e0d1269d231edfb"
+        }
+      ]
+    },
+    {
+      "id": "Android-14/GDPR/C.96",
+      "android": 14,
+      "region": "gdpr",
+      "ver": "C.96",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.96/boot.zip",
+          "size": 22747430,
+          "sha256": "54d0e5b99fd5c7dec2b586a245e43d269bf6da75f86312dd2efb18709b811788"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-14/GDPR/C.96/vendor_boot.zip",
+          "size": 32063476,
+          "sha256": "bed805c32077b86f8fdc5be076a0e84f3c6b9ca902af37c3dfdf8e0d5f7a7a91"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.91",
+      "android": 15,
+      "region": "export",
+      "ver": "F.91",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.91/boot.zip",
+          "size": 22746445,
+          "sha256": "096767980252c84e33c15218cbd6cb7043d212c82d79a328e91cac674510a842"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.91/vendor_boot.zip",
+          "size": 32035620,
+          "sha256": "d3404b9f24b74119fb42eed1e90248e944e82bacdbd22993c3220b8d24f4fb4b"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.93",
+      "android": 15,
+      "region": "export",
+      "ver": "F.93",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.93/boot.zip",
+          "size": 22747092,
+          "sha256": "3ce67bde01a0766f8188246f2bf22088684e24a9cfc309f110160a15a01f096e"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.93/vendor_boot.zip",
+          "size": 32036547,
+          "sha256": "3605cf1e37a182b89d1c95b8a9307f987d37b270023920b160c7ac283e719d8b"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.94",
+      "android": 15,
+      "region": "export",
+      "ver": "F.94",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.94/boot.zip",
+          "size": 22745876,
+          "sha256": "42857bd8bf0e3504043c85a0cd9b6cd096a8fdca6b94bb6d7097212f1c0ca3bd"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.94/vendor_boot.zip",
+          "size": 32036525,
+          "sha256": "4723f1c2ba3f3024d2ceb44a87a0d79c503be30c7e91550d45c566be0bd1affc"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.96",
+      "android": 15,
+      "region": "export",
+      "ver": "F.96",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.96/boot.zip",
+          "size": 22746878,
+          "sha256": "e08262ec9d6e2ea9481b2a4a0412bf283212658cb306a9936e16a1bacb381b61"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.96/vendor_boot.zip",
+          "size": 32063499,
+          "sha256": "859c38130d035293c18d86b0787f77461a10dc456affb7d6be5ec1740a370997"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.97",
+      "android": 15,
+      "region": "export",
+      "ver": "F.97",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.97/boot.zip",
+          "size": 22746523,
+          "sha256": "8f0c3c1dbfa0cda4f923568482de2a3f12775319c2bc54d1fdbed7ca18956c4c"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.97/vendor_boot.zip",
+          "size": 32063546,
+          "sha256": "a1e886514b87822b39bbf5b44a828224fead58b517a64b8e09f82e6ba02cce0c"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.98",
+      "android": 15,
+      "region": "export",
+      "ver": "F.98",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.98/boot.zip",
+          "size": 22746372,
+          "sha256": "5491a1a478e6c0e2d6d37ba05793ce95e4427cda0ae5589eabbd461ab553a362"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.98/vendor_boot.zip",
+          "size": 32063640,
+          "sha256": "ca672a41a49de35230e6b383d47492f969e5833384e10c216fdff63804d1d767"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/F.99",
+      "android": 15,
+      "region": "export",
+      "ver": "F.99",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.99/boot.zip",
+          "size": 22745342,
+          "sha256": "118d8a7b3b7f1346b9486cdd1593837e0d5132dfa9bc8a0b7398cbe1d13503aa"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/F.99/vendor_boot.zip",
+          "size": 32063758,
+          "sha256": "691d5629ef6659bb0a346dd7aba15838de71cc6acdd43dd8ab4e79a5158336a3"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.01",
+      "android": 15,
+      "region": "export",
+      "ver": "H.01",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.01/boot.zip",
+          "size": 22746306,
+          "sha256": "bba68d2e35622ec224c0720bba3268c41074b485ef1a78f0962b675bcaabea08"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.01/vendor_boot.zip",
+          "size": 32038158,
+          "sha256": "13d3ff33ad65a62aae2d96a6af45621a4a6cec9fbd99421a1e54104a4ef6c59d"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.01 (incl. EEA)",
+      "android": 15,
+      "region": "export",
+      "ver": "H.01",
+      "note": "incl. EEA",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.01 (incl. EEA)/boot.zip",
+          "size": 22746478,
+          "sha256": "fa51dc870108432c8edb1bf69126fce56e2f68b0a6305e12aabd272039dfb81d"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.01 (incl. EEA)/vendor_boot.zip",
+          "size": 32038139,
+          "sha256": "5ab4a586b6834f61085f294bec6f9cbf57ea7fc7576d2ddf0bd3dc70310ad62f"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.05",
+      "android": 15,
+      "region": "export",
+      "ver": "H.05",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.05/boot.zip",
+          "size": 22746504,
+          "sha256": "7f8a06dbd1feebe56dccef2a27fcabb4f312aaa1a25a4e41784d3ba192590710"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.05/vendor_boot.zip",
+          "size": 32038211,
+          "sha256": "cd8df8a62a33ef0a6270889bcee08d0f6927a23e022c54193fda45e497aa2a40"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.06",
+      "android": 15,
+      "region": "export",
+      "ver": "H.06",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.06/boot.zip",
+          "size": 22754744,
+          "sha256": "2fca6a992a758ca4b0bbeef53fd2f5e7a6e8ab21bc01794bc4ced8b9f5c58271"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.06/vendor_boot.zip",
+          "size": 32066943,
+          "sha256": "e066852ced5ca1c74a038842447b94848e91eb6b3d8ce84a24b212242a8f189c"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/Export/H.07",
+      "android": 15,
+      "region": "export",
+      "ver": "H.07",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.07/boot.zip",
+          "size": 22754232,
+          "sha256": "8e535bdef36162af07e6eb9ea77817b4cf6f8e20f7baf8337f64a1666a4362d2"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/Export/H.07/vendor_boot.zip",
+          "size": 32066749,
+          "sha256": "c9d92e314b4ea6f7f34b8ff2662bc236784d8944f5a1628f7aa063e93f68ae0d"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.91",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.91",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.91/boot.zip",
+          "size": 22740368,
+          "sha256": "91a05fa22ed0c342a0d497c7cc50e820571fd54edf930101ac26b1294a077ec8"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.91/vendor_boot.zip",
+          "size": 32034365,
+          "sha256": "bd321e70b0031b9a68cd9d7c79251a11857e37a6c830868a9c534730b96a046a"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.93",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.93",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.93/boot.zip",
+          "size": 22746583,
+          "sha256": "5249e7cc914eeacbf4f18449ebfa03a8269fe9df20c7dca65fd266df5c00ead4"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.93/vendor_boot.zip",
+          "size": 32036538,
+          "sha256": "3e5c1f758cdd47ef1c1bb74d20366ebae14f5473f8d52787dcafe60d9f1fb03c"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.94",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.94",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.94/boot.zip",
+          "size": 22746842,
+          "sha256": "b6c1b0b774d00510ad85caeb64bc0d22bdb70e85335b4bbe7144fe05916b2b47"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.94/vendor_boot.zip",
+          "size": 32036577,
+          "sha256": "7ff75b370d31006a00f83239394ed52980968d7c1280da46c90acd77269d19eb"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.96",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.96",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.96/boot.zip",
+          "size": 22747430,
+          "sha256": "c3805929ecb1861a1b2af23038d0e6a4d25b5a29f3fb955e7399e72f7e621496"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.96/vendor_boot.zip",
+          "size": 32063476,
+          "sha256": "747d39e93a4e85ca0d819beea09458fff1d4690fe72c86cdcbe336eebe2936cd"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.97",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.97",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.97/boot.zip",
+          "size": 22746883,
+          "sha256": "4064b1778c6f7d547fc9b8ab834de7e70f42296ca0373fc9b0b63bfaabbc6532"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.97/vendor_boot.zip",
+          "size": 32063540,
+          "sha256": "ec352f9193da868ce535f167a30f729d42662516da1343d670eccd83a93d43b0"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.98",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.98",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.98/boot.zip",
+          "size": 22746392,
+          "sha256": "248139c1e730379826a4faa4c292c8f0cf65bed7913c4dbd06ccccc4232223e2"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.98/vendor_boot.zip",
+          "size": 32063693,
+          "sha256": "947baff7915843daa06cde3ddc58faa428159ad78589228492d54fce141ecec5"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/F.99",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "F.99",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.99/boot.zip",
+          "size": 22745985,
+          "sha256": "b0ff28bf6d5d0640ad4ecf1a7feafa6dd781e25f60f5a8ceaca131670e133e6d"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/F.99/vendor_boot.zip",
+          "size": 32063844,
+          "sha256": "68988bb995030a6b330e651d59646a20a5ba3138040decfa712a3cf3ebcca080"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/H.01",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "H.01",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.01/boot.zip",
+          "size": 22746336,
+          "sha256": "c55a1f427a7b48b66442d0fe7c19ec650f111a8df0b0a5fe5505e73fd688636e"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.01/vendor_boot.zip",
+          "size": 32038476,
+          "sha256": "680f86729f6436f11ddaa8c83402b0146f89d53538767a11074348798bac766a"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/H.05",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "H.05",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.05/boot.zip",
+          "size": 22746394,
+          "sha256": "e4751264e81a8aa40700ba02504f8a0e0e164cebe17e53bea6371ade6096bb05"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.05/vendor_boot.zip",
+          "size": 32038888,
+          "sha256": "7ed4f94adfb7708cef743ef1f17cf84fa70ad30878de00d9fd8fbef1de0445ba"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/H.06",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "H.06",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.06/boot.zip",
+          "size": 22780678,
+          "sha256": "8e402ed75af9814825f084cc1a9a8bb375172d59252df99e7878037a63fecdfb"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.06/vendor_boot.zip",
+          "size": 32070792,
+          "sha256": "c870d821bf8189fbe818c49a5416f85a9c98d5041b983b38d3dd75767ebf9790"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/H.07",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "H.07",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.07/boot.zip",
+          "size": 22781313,
+          "sha256": "eeca5dff3f8aecbff00588c4077045a328e5e55dd4ad867a78de077947f333f6"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.07/vendor_boot.zip",
+          "size": 32070064,
+          "sha256": "5e570d95b6a2c1fd1e89d3987d03c36b12134182d77413582d3da96bb432b6ef"
+        }
+      ]
+    },
+    {
+      "id": "Android-15/GDPR/H.08",
+      "android": 15,
+      "region": "gdpr",
+      "ver": "H.08",
+      "note": "",
+      "files": [
+        {
+          "kind": "boot",
+          "name": "boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.08/boot.zip",
+          "size": 22779801,
+          "sha256": "e20252deacecaf02858186c00d128495889da975dad525ba4152070e17c77655"
+        },
+        {
+          "kind": "vendor_boot",
+          "name": "vendor_boot.zip",
+          "path": "boot-recovery/Android-15/GDPR/H.08/vendor_boot.zip",
+          "size": 32090552,
+          "sha256": "16305643af4ad5ece78a4927ec58277c54b3cd6af993968b7465b946d1a8df13"
+        }
+      ]
+    }
+  ]
+}
